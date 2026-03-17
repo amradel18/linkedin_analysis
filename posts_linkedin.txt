@@ -1,0 +1,1200 @@
+Amr Adel posted this • 2mo2mo
+Egypt’s AI Leap: From Digital Adoption to Economic Leadership 🇪🇬 Over the past five years, Egypt hasn't just been following the "AI Trend"—it has been architecting a long-term strategic transformation. By treating Artificial Intelligence as a primary economic driver rather than just a supportive sector, Egypt is positioning itself as a regional hub for innovation. Based on the National AI Strategy, this transformation is built on four robust pillars: 🚀 1. AI for Government (AI4G): Moving beyond simple digitization to "Intelligent Governance." By integrating AI into decision-making processes, the goal is to enhance transparency, streamline operations, and provide world-class citizen services. 🌍 2. AI for Development (AI4D): Leveraging AI to solve national challenges in critical sectors: Agriculture & Water Management: Optimizing resources for sustainability. Healthcare: Improving diagnostics and patient outcomes. Economic Planning: Using data-driven insights to fuel growth. 🧠 3. Capacity Building & Talent: Investing in the "Human Capital." Egypt is transforming from a consumer market into a Global Talent Export Hub, graduating thousands of specialized engineers in Data Science and AI annually to meet international market demands. 🤝 4. International Leadership: Actively shaping the global AI discourse. Egypt is leading regional efforts (Arab & African) to ensure that AI ethics and policies reflect the needs and voices of emerging economies. 📉 The Bottom Line: AI in Egypt is not about replacing humans; it’s about augmenting human potential. We are moving towards a data-driven economy where innovation is the standard, not the exception. The big question for businesses and professionals: Is your organization ready to leverage this rapid technological acceleration, or are you still in the "observation" phase? #DigitalEgypt #AIStrategy #Egypt2030 #ArtificialIntelligence #DigitalTransformation #EmergingMarkets #TechInnovation, Egypt AI_Strategy
+Egypt’s AI Leap: From Digital Adoption to Economic Leadership 🇪🇬
+
+Over the past five years, Egypt hasn't just been following the "AI Trend"—it has been architecting a long-term strategic transformation. By treating Artificial Intelligence as a primary economic driver rather than just a supportive sector, Egypt is positioning itself as a regional hub for innovation.
+Based on the National AI Strategy, this transformation is built on four robust pillars:
+🚀 1. AI for Government (AI4G): Moving beyond simple digitization to "Intelligent Governance." By integrating AI into decision-making processes, the goal is to enhance transparency, streamline operations, and provide world-class citizen services.
+🌍 2. AI for Development (AI4D): Leveraging AI to solve national challenges in critical sectors:
+Agriculture & Water Management: Optimizing resources for sustainability.
+Healthcare: Improving diagnostics and patient outcomes.
+Economic Planning: Using data-driven insights to fuel growth.
+🧠 3. Capacity Building & Talent: Investing in the "Human Capital." Egypt is transforming from a consumer market into a Global Talent Export Hub, graduating thousands of specialized engineers in Data Science and AI annually to meet international market demands.
+🤝 4. International Leadership: Actively shaping the global AI discourse. Egypt is leading regional efforts (Arab & African) to ensure that AI ethics and policies reflect the needs and voices of emerging economies.
+📉 The Bottom Line: AI in Egypt is not about replacing humans; it’s about augmenting human potential. We are moving towards a data-driven economy where innovation is the standard, not the exception.
+The big question for businesses and professionals: Is your organization ready to leverage this rapid technological acceleration, or are you still in the "observation" phase?
+hashtag#DigitalEgypt hashtag#AIStrategy hashtag#Egypt2030 hashtag#ArtificialIntelligence hashtag#DigitalTransformation hashtag#EmergingMarkets hashtag#TechInnovation…show more
+
+Egypt AI_Strategy
+39 pages
+like
+35
+ 5,246
+Impressions
+View analytics
+Amr Adel posted this • 2d2d
+Is your resume "machine-readable"? 🤖 Most companies use ATS (Applicant Tracking Systems) to filter candidates before a human even sees your CV. If your resume isn't optimized, it might never reach the recruiter’s desk. I just tested mine and hit a 90% score! 🎯 My advice: Don’t leave your career to chance. Before you apply for your next dream job, run your CV through a checker to ensure your formatting and keywords are on point. Check your score here: 👉 https://lnkd.in/d86qpcMd #CareerTips #JobSearch #ResumeReview #ATS #ProfessionalDevelopment #HR
+
+Is your resume "machine-readable"? 🤖
+
+Most companies use ATS (Applicant Tracking Systems) to filter candidates before a human even sees your CV. If your resume isn't optimized, it might never reach the recruiter’s desk.
+
+I just tested mine and hit a 90% score! 🎯
+
+My advice: Don’t leave your career to chance. Before you apply for your next dream job, run your CV through a checker to ensure your formatting and keywords are on point.
+
+Check your score here: 👉 https://lnkd.in/d86qpcMd
+
+hashtag#CareerTips hashtag#JobSearch hashtag#ResumeReview hashtag#ATS hashtag#ProfessionalDevelopment
+hashtag#HR…show more
+like
+5
+mohamed khaled and 4 others
+ 2,722
+Impressions
+View analytics
+Amr Adel posted this • 16h16h
+🚀 Mastering the Cloud: My AWS Journey Begins! I have recently started diving deep into AWS through the excellent course by Mohamed Rizk. The curriculum is remarkably clear and comprehensive, providing a solid foundation in cloud services and their respective pricing models. 💡 Key Concepts Explored: EC2 (Elastic Compute Cloud): Deploying and managing scalable servers in the cloud. S3 (Simple Storage Service): Utilizing flexible and highly durable data storage solutions. Lambda: Running code in a serverless environment, optimizing both cost and efficiency. VPC (Virtual Private Cloud): Designing and managing secure, isolated network infrastructures. IAM (Identity and Access Management): Implementing granular control over permissions and security. The Road Ahead: As I wrap up this course, my next goal is to transition into MLOps. I am excited to begin integrating these cloud fundamentals with machine learning workflows to build production-ready AI systems! 🎯 A huge thank you to Mohamed Rizk for the practical insights and for making complex cloud concepts so accessible. 📺 Check out the course here: https://lnkd.in/dRAANk4A #AWS #CloudComputing #MLOps #DataScience #CloudEngineering #SelfLearning #LearningJourney #TechSkills
+
+🚀 Mastering the Cloud: My AWS Journey Begins!
+
+I have recently started diving deep into AWS through the excellent course by Mohamed Rizk. The curriculum is remarkably clear and comprehensive, providing a solid foundation in cloud services and their respective pricing models. 💡
+
+Key Concepts Explored:
+EC2 (Elastic Compute Cloud): Deploying and managing scalable servers in the cloud.
+S3 (Simple Storage Service): Utilizing flexible and highly durable data storage solutions.
+Lambda: Running code in a serverless environment, optimizing both cost and efficiency.
+VPC (Virtual Private Cloud): Designing and managing secure, isolated network infrastructures.
+IAM (Identity and Access Management): Implementing granular control over permissions and security.
+
+The Road Ahead: 
+As I wrap up this course, my next goal is to transition into MLOps. I am excited to begin integrating these cloud fundamentals with machine learning workflows to build production-ready AI systems! 🎯
+
+A huge thank you to Mohamed Rizk for the practical insights and for making complex cloud concepts so accessible.
+
+📺 Check out the course here: https://lnkd.in/dRAANk4A
+
+hashtag#AWS hashtag#CloudComputing hashtag#MLOps hashtag#DataScience hashtag#CloudEngineering hashtag#SelfLearning hashtag#LearningJourney hashtag#TechSkills…show more
+likelove
+5
+mohamed khaled and 4 others
+2 comments
+1 repost
+ 777
+Impressions
+View analytics
+Amr Adel posted this • 1w1w
+المعلومة مابقتش "قوة".. القوة في اللي هتعمله بيها! 💡 لسنين طويلة كان عندنا اعتقاد إن "المعرفة هي إنك تمتلك المعلومة".. لكن الحقيقة إن المبدأ ده انتهى خلاص. بعد ما شفت حلقة بودكاست Business بالعربي ، اتأكدت إننا فعلاً في عصر الـ Knowledge Economy. المعلومة دلوقت بقت Instant & Free، ومتاحة لأي حد بضغطة زرار. السؤال الحقيقي دلوقت مابقاش "إنت عارف إيه؟".. السؤال هو: "هتعرف تطلّع منها إيه؟" ليه الحلقة دي "Must Watch" لأي حد مهتم بالـ AI والبزنس؟ الجميل في الطرح إنه بيجمع بين رؤية الـ Business وعقلية الـ AI Engineer في نقط جوهرية: 1️⃣ الـ AI مش بيلغي الوظائف.. هو بيلغي "الروتين": الذكاء الاصطناعي شاطر جداً في الـ Automation والكود والداتا، بس لسه "ضعيف" في التفكير الإبداعي والـ System Thinking. المهارة اللي هتعيش هي قدرتك على توظيف الأدوات دي عشان تبني حلول ذكية. 2️⃣ السوق بيكبر مش بيصغر: فيه خوف إن الـ AI هياخد مكان البشر، بس الحقيقة إن الإنتاجية لما تزيد، حجم السوق نفسه بيكبر. الشركة اللي كانت بتعمل منتجين في السنة، دلوقت تقدر تعمل 20.. وده معناه احتياج أكبر لبشر بمهارات مختلفة و Social Intelligence عالي. 3️⃣ التعليم الحقيقي هو "التحليل": زمن "الإجابة النموذجية" انتهى. التعلم الصح دلوقت هو إنك تدور في 10 مصادر، وتحللهم، وتطلع بـ Scenarios وحلول استراتيجية. الخلاصة: المستقبل مش للي "حافظ"، المستقبل للي بيعرف يخلق "قيمة مضافة" من اللي عارفه. لو عايز تفهم الـ AI Strategy وازاي سوق العمل بيتغير بجد، الحلقة دي هي "البوصلة" اللي محتاجها. من أكتر الحاجات اللي أكدت لي رؤيتي وغيرت طريقة تفكيري في الـ Future of Work. 📺 الرابط في أول تعليق. #Business_بالعربي #AI_Strategy #FutureOfWork #DataScience #KnowledgeEconomy #EgyptTech
+
+المعلومة مابقتش "قوة".. القوة في اللي هتعمله بيها! 💡
+
+لسنين طويلة كان عندنا اعتقاد إن "المعرفة هي إنك تمتلك المعلومة".. لكن الحقيقة إن المبدأ ده انتهى خلاص.
+
+بعد ما شفت حلقة بودكاست Business بالعربي ، اتأكدت إننا فعلاً في عصر الـ Knowledge Economy. المعلومة دلوقت بقت Instant & Free، ومتاحة لأي حد بضغطة زرار. السؤال الحقيقي دلوقت مابقاش "إنت عارف إيه؟".. السؤال هو: "هتعرف تطلّع منها إيه؟"
+
+ليه الحلقة دي "Must Watch" لأي حد مهتم بالـ AI والبزنس؟
+الجميل في الطرح إنه بيجمع بين رؤية الـ Business وعقلية الـ AI Engineer في نقط جوهرية:
+
+1️⃣ الـ AI مش بيلغي الوظائف.. هو بيلغي "الروتين": الذكاء الاصطناعي شاطر جداً في الـ Automation والكود والداتا، بس لسه "ضعيف" في التفكير الإبداعي والـ System Thinking. المهارة اللي هتعيش هي قدرتك على توظيف الأدوات دي عشان تبني حلول ذكية.
+
+2️⃣ السوق بيكبر مش بيصغر: فيه خوف إن الـ AI هياخد مكان البشر، بس الحقيقة إن الإنتاجية لما تزيد، حجم السوق نفسه بيكبر. الشركة اللي كانت بتعمل منتجين في السنة، دلوقت تقدر تعمل 20.. وده معناه احتياج أكبر لبشر بمهارات مختلفة و Social Intelligence عالي.
+
+3️⃣ التعليم الحقيقي هو "التحليل": زمن "الإجابة النموذجية" انتهى. التعلم الصح دلوقت هو إنك تدور في 10 مصادر، وتحللهم، وتطلع بـ Scenarios وحلول استراتيجية.
+الخلاصة: المستقبل مش للي "حافظ"، المستقبل للي بيعرف يخلق "قيمة مضافة" من اللي عارفه.
+
+لو عايز تفهم الـ AI Strategy وازاي سوق العمل بيتغير بجد، الحلقة دي هي "البوصلة" اللي محتاجها. من أكتر الحاجات اللي أكدت لي رؤيتي وغيرت طريقة تفكيري في الـ Future of Work.
+
+📺 الرابط في أول تعليق.
+
+hashtag#Business_بالعربي hashtag#AI_Strategy hashtag#FutureOfWork hashtag#DataScience hashtag#KnowledgeEconomy hashtag#EgyptTech…show more
+celebratelike
+4
+Ahmed Mahmoud Metwally and 3 others
+1 comment
+ 768
+Impressions
+View analytics
+Amr Adel posted this • 2w2w
+I’m happy to share that I’m starting a new position as Applied AI & Intelligent Automation at Bed Janssen!
+
+I’m happy to share that I’m starting a new position as Applied AI & Intelligent Automation at Bed Janssen!
+likecelebrate
+24
+8 comments
+ 695
+Impressions
+View analytics
+Amr Adel posted this • 5d5d
+هل أنت بتقدم على وظيفة ولا بتقدم على "قسم كامل" لوحدك؟ 🧐 فتحت إعلان لوظيفة "Data Scientist"، وبدأت أقرأ المتطلبات.. والمفاجأة كانت كالآتي: 1️⃣ بدأت بـ Business Analyst بيفهم في لغة الأرقام. 2️⃣ قلبت Data Analyst محترف Python و SQL 3️⃣ فجأة دخلنا في الـ Data Engineering وبناء الـ Pipelines. 4️⃣ وشوية MLOps على Cloud (AWS) عشان "التحبيشة" تكمل. 5️⃣ وفي الآخر.. "بتعرف تبني AI Agents؟" يعني محتاجين AI Engineer بيفهم Back-End كمان! الحقيقة المرة: السوق دلوقتي مش بيدور على "ترس" متخصص، هو بيدور على "مهندس استراتيجي" يقدر يربط كل الجزر المنعزلة دي ببعضها عشان يحقق ROI حقيقي. مستحيل شخص في أول 3 سنين خبرة يكون "Expert" في كل ده، لكن الصح إنه يكون عنده "العقلية الاستراتيجية" اللي بتجمع الصورة كاملة. 💡 نصيحة لتطوير العقلية دي: لو عايز تفهم إزاي التخصصات دي بتخدم بعضها وتشوف الصورة الكبيرة، مفيش أفضل من محتوى المهندس Ahmed Elemam وقناته على يوتيوب. حقيقي المقابلات اللي بيعملها مع خبراء من كل المجالات هي اللي "هتفتح مخك" وتخليك مخطط مش مجرد منفذ. 📺 تابعوه هنا: https://lnkd.in/dJNGU8e3 #DataScience #AI #MachineLearning #DataEngineering #Strategy #CareerGrowth #AppliedAI
+
+هل أنت بتقدم على وظيفة ولا بتقدم على "قسم كامل" لوحدك؟ 🧐
+
+ فتحت إعلان لوظيفة "Data Scientist"، وبدأت أقرأ المتطلبات.. والمفاجأة كانت كالآتي: 
+1️⃣ بدأت بـ Business Analyst بيفهم في لغة الأرقام. 
+2️⃣ قلبت Data Analyst محترف Python و SQL
+3️⃣ فجأة دخلنا في الـ Data Engineering وبناء الـ 
+Pipelines. 4️⃣ وشوية MLOps على Cloud (AWS) عشان "التحبيشة" تكمل. 
+5️⃣ وفي الآخر.. "بتعرف تبني AI Agents؟" يعني محتاجين AI Engineer بيفهم Back-End كمان!
+
+الحقيقة المرة: السوق دلوقتي مش بيدور على "ترس" متخصص، هو بيدور على "مهندس استراتيجي" يقدر يربط كل الجزر المنعزلة دي ببعضها عشان يحقق ROI حقيقي.
+
+مستحيل شخص في أول 3 سنين خبرة يكون "Expert" في كل ده، لكن الصح إنه يكون عنده "العقلية الاستراتيجية" اللي بتجمع الصورة كاملة.
+
+💡 نصيحة لتطوير العقلية دي: لو عايز تفهم إزاي التخصصات دي بتخدم بعضها وتشوف الصورة الكبيرة، مفيش أفضل من محتوى المهندس Ahmed Elemam
+ وقناته على يوتيوب. حقيقي المقابلات اللي بيعملها مع خبراء من كل المجالات هي اللي "هتفتح مخك" وتخليك مخطط مش مجرد منفذ. 
+📺 تابعوه هنا: https://lnkd.in/dJNGU8e3
+
+hashtag#DataScience hashtag#AI hashtag#MachineLearning hashtag#DataEngineering hashtag#Strategy hashtag#CareerGrowth hashtag#AppliedAI…show more
+celebrate
+1
+ 482
+Impressions
+View analytics
+Amr Adel posted this • 3w3w
+كنت فاكر إني فاهم الـ Fine-Tuning.. طلعت غلطان! 😅 بعد ما شفت حلقة Abu Bakr Soliman عن الـ Master VLM Finetuning، قررت أراجع معلوماتي.. "الموضوع بسيط، شوية Data ونعدل الـ Model" – ده اللي كنت فاكره. النتيجة؟ 5 ساعات متواصلة من البحث، قراءة Research Papers، ونقاشات مع ChatGPT و Gemini.. اكتشفت فيها إن اللي كنت أعرفه مجرد "قشرة". الموضوع مش مجرد تدريب، ده علم كامل بيبدأ من تقنيات زي PEFT, LoRA, QLoRA و Instruction Tuning (SFT)، وبيمر بمفاهيم تقنية ورياضية زي Cross-Entropy Loss, AdamW, Quantization (NF4/INT4) وصولاً لـ RLHF و KL Penalty. حتى الـ Architecture نفسها فيها تفاصيل مذهلة بين Pre-LLM Adapters, Post-LLM Refiners, و Sandwich Architecture. الخلاصة اللي طلعت بيها: الفرق بين واحد "Using a Model" وواحد "Understanding how a Model is shaped" فرق ضخم جداً. الـ Fine-Tuning مش مجرد خطوة، ده نظام هندسي متكامل. ✅ الخبر الحلو: لخصت كل اللي فهمته في Thinking Framework كامل (ملف PDF).. مش مجرد Notes، لكن خريطة طريق نورت لي أفكار كتير كانت غايبة عني. نصيحة: العمق الحقيقي بيبدأ لما تعترف إنك "مش فاهم كفاية".. وقتها بس الأبواب المقفولة بتفتح قدامك. 💡 #AI #GenerativeAI #MachineLearning #DeepLearning #LargeLanguageModels #LLMs #FineTuning #DataScience, fine_tuning LLMS
+كنت فاكر إني فاهم الـ Fine-Tuning.. طلعت غلطان! 😅
+بعد ما شفت حلقة Abu Bakr Soliman عن الـ Master VLM Finetuning، قررت أراجع معلوماتي.. "الموضوع بسيط، شوية Data ونعدل الـ Model" – ده اللي كنت فاكره.
+
+النتيجة؟ 5 ساعات متواصلة من البحث، قراءة Research Papers، ونقاشات مع ChatGPT و Gemini.. اكتشفت فيها إن اللي كنت أعرفه مجرد "قشرة".
+
+الموضوع مش مجرد تدريب، ده علم كامل بيبدأ من تقنيات زي PEFT, LoRA, QLoRA و Instruction Tuning (SFT)، وبيمر بمفاهيم تقنية ورياضية زي Cross-Entropy Loss, AdamW, Quantization (NF4/INT4) وصولاً لـ RLHF و KL Penalty.
+
+حتى الـ Architecture نفسها فيها تفاصيل مذهلة بين Pre-LLM Adapters, Post-LLM Refiners, و Sandwich Architecture.
+
+الخلاصة اللي طلعت بيها: الفرق بين واحد "Using a Model" وواحد "Understanding how a Model is shaped" فرق ضخم جداً. الـ Fine-Tuning مش مجرد خطوة، ده نظام هندسي متكامل.
+
+✅ الخبر الحلو: لخصت كل اللي فهمته في Thinking Framework كامل (ملف PDF).. مش مجرد Notes، لكن خريطة طريق نورت لي أفكار كتير كانت غايبة عني.
+
+نصيحة: العمق الحقيقي بيبدأ لما تعترف إنك "مش فاهم كفاية".. وقتها بس الأبواب المقفولة بتفتح قدامك. 💡
+
+ hashtag#AI hashtag#GenerativeAI hashtag#MachineLearning hashtag#DeepLearning hashtag#LargeLanguageModels hashtag#LLMs hashtag#FineTuning hashtag#DataScience…show more
+
+fine_tuning LLMS
+5 pages
+celebrate
+1
+1 repost
+ 474
+Impressions
+View analytics
+Amr Adel posted this • 6mo6mo
+I’m happy to share that I’ve completed my Bachelor's degree at Higher Institute for Cooperative and Administrative Studies!
+
+I’m happy to share that I’ve completed my Bachelor's degree at Higher Institute for Cooperative and Administrative Studies!
+celebrate
+1
+1 comment
+ 451
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+🚀 RAG vs AI Agents vs Fine-Tuning: Which one do you need? If you're confused between these three AI pillars, here is the breakdown of how they work and when to use each: 1️⃣ RAG (The External Memory) 📚 Concept: The model doesn't "know" the info by heart; it searches through your documents to find the answer. Best for: Dynamic data (PDFs, Excel, Docs) where accuracy and citations are a must. Use Case: Customer Support chatbots & internal Knowledge Bases. Formula: Intelligence + External Database. 2️⃣ AI Agents (The Digital Employee) 🤖 Concept: It doesn't just talk; it thinks, plans, and executes tasks using specific tools. Best for: Complex workflows that require decision-making and multi-step actions. Use Case: An agent that reads an email, updates your CRM, and generates a report automatically. Formula: LLM + Tools + Logic. 3️⃣ Fine-Tuning (Brain Re-wiring) 🧠 Concept: Training the model itself to change its core behavior, tone, or specialized domain knowledge. Best for: When you need a specific style, niche vocabulary, or consistent behavior that out-of-the-box models lack. Use Case: Medical or Legal specialized models with a very specific output format. Formula: Changing the model’s internal behavior. 💡 Quick Summary: RAG ➡️ Feed the model info. Agents ➡️ Let the model work & execute. Fine-Tuning ➡️ Change how the model thinks. ❓ Discussion: Do you think most businesses actually need Fine-Tuning, or are RAG + Agents enough for 90% of use cases? #AI #LLM #RAG #AIAgents #FineTuning #Automation #GenAI
+
+🚀 RAG vs AI Agents vs Fine-Tuning: Which one do you need?
+If you're confused between these three AI pillars, here is the breakdown of how they work and when to use each:
+1️⃣ RAG (The External Memory) 📚
+Concept: The model doesn't "know" the info by heart; it searches through your documents to find the answer.
+Best for: Dynamic data (PDFs, Excel, Docs) where accuracy and citations are a must.
+Use Case: Customer Support chatbots & internal Knowledge Bases.
+Formula: Intelligence + External Database.
+2️⃣ AI Agents (The Digital Employee) 🤖
+Concept: It doesn't just talk; it thinks, plans, and executes tasks using specific tools.
+Best for: Complex workflows that require decision-making and multi-step actions.
+Use Case: An agent that reads an email, updates your CRM, and generates a report automatically.
+Formula: LLM + Tools + Logic.
+3️⃣ Fine-Tuning (Brain Re-wiring) 🧠
+Concept: Training the model itself to change its core behavior, tone, or specialized domain knowledge.
+Best for: When you need a specific style, niche vocabulary, or consistent behavior that out-of-the-box models lack.
+Use Case: Medical or Legal specialized models with a very specific output format.
+Formula: Changing the model’s internal behavior.
+💡 Quick Summary:
+RAG ➡️ Feed the model info.
+Agents ➡️ Let the model work & execute.
+Fine-Tuning ➡️ Change how the model thinks.
+❓ Discussion: Do you think most businesses actually need Fine-Tuning, or are RAG + Agents enough for 90% of use cases?
+hashtag#AI hashtag#LLM hashtag#RAG hashtag#AIAgents hashtag#FineTuning hashtag#Automation hashtag#GenAI…show more
+like
+6
+ 337
+Impressions
+View analytics
+Amr Adel posted this • 3mo3mo
+The End of Single Specialization — Why 40% Knowledge Is Enough in the Age of AI I’ve realized that focusing on one narrow specialty doesn’t fit our world anymore. AI has changed the rules completely. Today, what you really need is the ability to connect different fields, not master just one. I started in Data Science, but quickly discovered it wasn’t enough to build real solutions. I found myself learning: What Business really means Backend and Frontend development IoT, Arduino, and basic electronics Basics of finance and supply chain to handle budgets and resources Am I an expert in all of that? Not at all. But combining even 40% from each field helped me build complete products and understand problems from every angle. And here’s where AI became my real advantage— AI fills the technical gaps, executes tasks, and speeds up the work… But I’m the one who creates the idea, defines the problem, and builds the solution. The Takeaway The era of ultra-narrow specialization is fading. Today, broad knowledge + AI is the formula for solving large and complex problems. You don’t need to be the smartest — you need to be the most knowledgeable across multiple fields. If you’re learning from many areas and feel “all over the place”… trust me, you’re actually moving in the right direction. #AI #FutureOfWork #Multidisciplinary #Learning #Innovation #Technology #ProductBuilding #CareerGrowth #ArtificialIntelligence #ProblemSolving #Leadership #DataScience #SoftwareDevelopment #IoT #BusinessMindset
+
+The End of Single Specialization — Why 40% Knowledge Is Enough in the Age of AI
+I’ve realized that focusing on one narrow specialty doesn’t fit our world anymore.
+ AI has changed the rules completely. Today, what you really need is the ability to connect different fields, not master just one.
+I started in Data Science, but quickly discovered it wasn’t enough to build real solutions. I found myself learning:
+What Business really means
+Backend and Frontend development
+IoT, Arduino, and basic electronics
+Basics of finance and supply chain to handle budgets and resources
+Am I an expert in all of that? Not at all.
+ But combining even 40% from each field helped me build complete products and understand problems from every angle.
+And here’s where AI became my real advantage—
+ AI fills the technical gaps, executes tasks, and speeds up the work…
+ But I’m the one who creates the idea, defines the problem, and builds the solution.
+The Takeaway
+The era of ultra-narrow specialization is fading.
+ Today, broad knowledge + AI is the formula for solving large and complex problems.
+ You don’t need to be the smartest — you need to be the most knowledgeable across multiple fields.
+If you’re learning from many areas and feel “all over the place”… trust me, you’re actually moving in the right direction.
+
+hashtag#AI hashtag#FutureOfWork hashtag#Multidisciplinary hashtag#Learning hashtag#Innovation hashtag#Technology hashtag#ProductBuilding hashtag#CareerGrowth hashtag#ArtificialIntelligence hashtag#ProblemSolving hashtag#Leadership hashtag#DataScience hashtag#SoftwareDevelopment hashtag#IoT hashtag#BusinessMindset
+…show more
+like
+3
+ 335
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+Web Scraping: Your Market Intelligence Radar 🕵️‍♂️📈 Stop asking "What happened?" and start asking "What is happening right now?" By leveraging Python-powered Web Scraping, we transform the entire web into a massive, structured database tailored to your business needs: ✅ Competitor Monitoring: Track prices, latest offers, and new product launches in real-time. ✅ High-Precision Lead Generation: Identify and reach your ideal customers before the competition does. ✅ Seamless Automation: Direct integration with your Dashboards for instant, data-backed decision-making. 🚀 Data is the new oil... but do you have the right tools to extract it? Let’s discuss: Does your company rely on real-time data or team intuition? 👇 #DataAnalytics #Automation #WebScraping #BusinessGrowth #MarketIntelligence #Python
+
+Web Scraping: Your Market Intelligence Radar 🕵️‍♂️📈
+
+Stop asking "What happened?" and start asking "What is happening right now?"
+
+By leveraging Python-powered Web Scraping, we transform the entire web into a massive, structured database tailored to your business needs:
+✅ Competitor Monitoring: Track prices, latest offers, and new product launches in real-time. ✅ High-Precision Lead Generation: Identify and reach your ideal customers before the competition does. ✅ Seamless Automation: Direct integration with your Dashboards for instant, data-backed decision-making.
+
+🚀 Data is the new oil... but do you have the right tools to extract it?
+Let’s discuss: Does your company rely on real-time data or team intuition? 👇
+
+hashtag#DataAnalytics hashtag#Automation hashtag#WebScraping hashtag#BusinessGrowth hashtag#MarketIntelligence hashtag#Python…show more
+ 332
+Impressions
+View analytics
+Amr Adel posted this • 1w1w
+From "How it Works" to "Why it Matters" 💡 Lately, I’ve been deep-diving into the technical world: Machine Learning, Python, and LLMs. But during recent interviews with top-tier Consulting firms, I realized something crucial: I was speaking too much "Tech" to a room full of Business Strategy experts. They weren't asking how I built the pipeline; they wanted to know how it impacts the bottom line. I learned that in Business, the conversation follows a different flow: 1️⃣ The Input: What is the actual pain point? What are the market constraints? 2️⃣ The Process: How will the company’s workflow change? What decision will this drive? 3️⃣ The Output: What’s the ROI? Is it cost reduction, revenue growth, or speed? The business world doesn’t care about the "technical kitchen"—they care about the Value served on the table. The Lesson: Being technical is powerful, but translating technology into business value is the real superpower. A great Data Scientist doesn't just write the best code; they turn data into decisions. 📈 #DataScience #BusinessStrategy #MachineLearning #Consulting #DigitalTransformation #DataDriven #CareerGrowth #ROI, Business Strategy
+From "How it Works" to "Why it Matters" 💡
+
+Lately, I’ve been deep-diving into the technical world: Machine Learning, Python, and LLMs. But during recent interviews with top-tier Consulting firms, I realized something crucial:
+
+I was speaking too much "Tech" to a room full of Business Strategy experts.
+
+They weren't asking how I built the pipeline; they wanted to know how it impacts the bottom line. I learned that in Business, the conversation follows a different flow:
+
+1️⃣ The Input: What is the actual pain point? What are the market constraints? 
+2️⃣ The Process: How will the company’s workflow change? What decision will this drive? 
+3️⃣ The Output: What’s the ROI? Is it cost reduction, revenue growth, or speed?
+
+The business world doesn’t care about the "technical kitchen"—they care about the Value served on the table.
+
+The Lesson: Being technical is powerful, but translating technology into business value is the real superpower. A great Data Scientist doesn't just write the best code; they turn data into decisions. 📈
+
+hashtag#DataScience hashtag#BusinessStrategy hashtag#MachineLearning hashtag#Consulting hashtag#DigitalTransformation hashtag#DataDriven hashtag#CareerGrowth hashtag#ROI…show more
+
+Business Strategy 
+5 pages
+like
+2
+ 304
+Impressions
+View analytics
+Amr Adel posted this • 4mo4mo
+أول ما بدأت في مشروع اللوجستيات ده كنت بصراحة متوتر. كل خبرتي وقتها كانت في Data Science جوه notebooks—تحليل، تجارب، وmodels بسيطة. عمري ما بنيت system كامل بيشتغل على real operational data وبأحجام مختلفة من العملاء والشاحنات. بس قررت ما أهربش. بدأت أدرس Optimization بجدية عشان أفهم إزاي ممكن أستخدمه لحل مشكلة حقيقية مش مجرد نموذج تجريبي. الفكرة اللي مشيت عليها كانت كده: أول خطوة استخدمت ML clustering عشان أقسّم الـorders لمجموعات منطقية. الخطوة دي مهمة جدًا لأنها بتقلّل complexity من آلاف النقاط → مجموعات صغيرة قابلة للحل. بعد كده كل cluster بدخله على Google OR-Tools عشان يحل Vehicle Routing Problem (VRP): أحسن routes أقل cost احترام الـcapacity وتحقيق constraints التشغيلية وكل ده من غير ما يحتاج high computing resources. الفكرة إن الـML بيرتّب شكل المشكلة، وOR-Tools بيشيل الجزء الرياضي والتقيل — دمج عملي بين الإحصاء والخوارزميات والرياضيات. وفي النهاية طوّرت system كامل: رفع ملفات Excel → preprocessing → clustering → VRP → packing → dashboards واضحة للنتايج والتحليلات. والأهم إنه stable — بيشتغل مع أحجام مختلفة من البيانات ومش بيقف. الكود موجود على GitHub، ولو حد حابب يشوف التفاصيل أو يناقش الفكرة، أهلاً بأي رسالة. https://lnkd.in/g2S2pvEP #DataScience #Optimization #MachineLearning #ORTools #Logistics #FastAPI
+No alternative text description for this image
+أول ما بدأت في مشروع اللوجستيات ده كنت بصراحة متوتر.
+ كل خبرتي وقتها كانت في Data Science جوه notebooks—تحليل، تجارب، وmodels بسيطة.
+ عمري ما بنيت system كامل بيشتغل على real operational data وبأحجام مختلفة من العملاء والشاحنات.
+بس قررت ما أهربش.
+ بدأت أدرس Optimization بجدية عشان أفهم إزاي ممكن أستخدمه لحل مشكلة حقيقية مش مجرد نموذج تجريبي.
+الفكرة اللي مشيت عليها كانت كده:
+أول خطوة استخدمت ML clustering عشان أقسّم الـorders لمجموعات منطقية.
+ الخطوة دي مهمة جدًا لأنها بتقلّل complexity من آلاف النقاط → مجموعات صغيرة قابلة للحل.
+بعد كده كل cluster بدخله على Google OR-Tools عشان يحل Vehicle Routing Problem (VRP):
+أحسن routes
+أقل cost
+احترام الـcapacity
+وتحقيق constraints التشغيلية
+ وكل ده من غير ما يحتاج high computing resources.
+الفكرة إن الـML بيرتّب شكل المشكلة،
+ وOR-Tools بيشيل الجزء الرياضي والتقيل — دمج عملي بين الإحصاء والخوارزميات والرياضيات.
+وفي النهاية طوّرت system كامل:
+ رفع ملفات Excel → preprocessing → clustering → VRP → packing → dashboards واضحة للنتايج والتحليلات.
+ والأهم إنه stable — بيشتغل مع أحجام مختلفة من البيانات ومش بيقف.
+الكود موجود على GitHub، ولو حد حابب يشوف التفاصيل أو يناقش الفكرة، أهلاً بأي رسالة.
+https://lnkd.in/g2S2pvEP
+ hashtag#DataScience hashtag#Optimization hashtag#MachineLearning hashtag#ORTools hashtag#Logistics hashtag#FastAPI…show more
+celebrate
+1
+ 298
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+OR vs. ML: Prediction vs. Optimization 🚀 Many people confuse Machine Learning (ML) with Operations Research (OR), but in the corporate world, they are two sides of the same coin. One predicts the future; the other masters it. 🧠 Operations Research (OR): The Science of "Best" OR is all about Optimization. It answers: "What is the BEST decision given our constraints?" Focus: Mathematical modeling to find the most efficient path. Tools: Linear Programming, Scheduling, Simulations. Use Cases: Routing delivery trucks, minimizing operational costs, or warehouse inventory management. 🤖 Machine Learning (ML): The Science of "Pattern" ML is all about Prediction. It answers: "What is LIKELY to happen based on the past?" Focus: Learning from massive datasets to find hidden patterns. Tools: Regression, Neural Networks, Clustering. Use Cases: Forecasting demand, detecting fraud, or predicting customer churn. 🔗 The Power Duo: Why You Need Both Real business intelligence happens when these two collaborate: ML predicts the variables: "We expect a 30% surge in demand next week." OR optimizes the response: "Based on that 30% surge, here is the exact production schedule to minimize overtime costs." The Bottom Line: ML gives you the Eyes (to see what's coming). OR gives you the Brain (to decide what to do about it). AI is not just a model; it is Prediction + Optimization + Business Value. #DataScience #OperationsResearch #MachineLearning #AI #DecisionScience #FLINK
+
+OR vs. ML: Prediction vs. Optimization 🚀
+Many people confuse Machine Learning (ML) with Operations Research (OR), but in the corporate world, they are two sides of the same coin. One predicts the future; the other masters it.
+🧠 Operations Research (OR): The Science of "Best"
+OR is all about Optimization. It answers: "What is the BEST decision given our constraints?"
+Focus: Mathematical modeling to find the most efficient path.
+Tools: Linear Programming, Scheduling, Simulations.
+Use Cases: Routing delivery trucks, minimizing operational costs, or warehouse inventory management.
+🤖 Machine Learning (ML): The Science of "Pattern"
+ML is all about Prediction. It answers: "What is LIKELY to happen based on the past?"
+Focus: Learning from massive datasets to find hidden patterns.
+Tools: Regression, Neural Networks, Clustering.
+Use Cases: Forecasting demand, detecting fraud, or predicting customer churn.
+🔗 The Power Duo: Why You Need Both
+Real business intelligence happens when these two collaborate:
+ML predicts the variables: "We expect a 30% surge in demand next week."
+OR optimizes the response: "Based on that 30% surge, here is the exact production schedule to minimize overtime costs."
+The Bottom Line:
+ML gives you the Eyes (to see what's coming).
+OR gives you the Brain (to decide what to do about it).
+AI is not just a model; it is Prediction + Optimization + Business Value.
+
+hashtag#DataScience hashtag#OperationsResearch hashtag#MachineLearning hashtag#AI hashtag#DecisionScience hashtag#FLINK…show more
+lovelike
+2
+1 comment
+ 297
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+❤️❤️
+No alternative text description for this image
+❤️❤️
+love
+5
+1 comment
+ 293
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+“YouTube كنز غيّر حياتي وطريقة تفكيري… أغلب محتواه عربي. رحلة مستمرة من 4 سنوات ولسه مكملة. اللي هتلاقوه مش مجرد شوية كورسات… ده محتوى كلية كاملة. قبل ما تضيع فلوسك في كورسات مدفوعة، جرب تستغل الكنز المفتوح على YouTube… لو ركزت، هتتعلم أكتر بكتير من اللي أي كورس مدفوع ممكن يديه. وطبعًا، لو حابب اتجاه معين أو مش عارف تبدأ منين، في ناس مثلك بدأت الرحلة وممكن تبص على مصادر معينة تساعدك على الطريق 😉.”** Knowledge and experience ***************************** https://lnkd.in/exX7kucc https://lnkd.in/e8z9sFDK https://lnkd.in/e-KTxjQe https://lnkd.in/exXkQ89Y https://lnkd.in/esQM8zrt https://lnkd.in/ew2qdr3Z https://lnkd.in/eZsqZRSQ https://lnkd.in/ebGamEGg https://lnkd.in/ejaRStJh Data and business analysis *************************** https://lnkd.in/eSAdbY57 https://lnkd.in/eS2ppsyc https://lnkd.in/euTvs5qP https://lnkd.in/eP26wRy5 https://lnkd.in/ehPuA-ZS https://lnkd.in/eCR3vi2Z https://lnkd.in/ePJJTzDb Data engineering ****************** https://lnkd.in/eP2iW6_v https://lnkd.in/ezr2WFYi https://lnkd.in/eaeiMNC8 https://lnkd.in/eWyqJ7Ns https://lnkd.in/enR_Y-yR Data science ************* https://lnkd.in/ej2NzaWg https://lnkd.in/e4RgxjPe https://lnkd.in/esM8znSp https://lnkd.in/ejjdGfc9 https://lnkd.in/ewuq6H9b https://lnkd.in/eyarherK https://lnkd.in/eEq5-s6Z https://lnkd.in/ep-BH6SR https://lnkd.in/eWP4xnUN https://lnkd.in/e9tcD-Gg https://lnkd.in/eu9gFfNV https://lnkd.in/eidr_7Aj https://lnkd.in/ewTpiZh8 https://lnkd.in/erE5sCRr https://lnkd.in/eTS787JJ https://lnkd.in/eCF7ehDs https://lnkd.in/enr4iZbE https://lnkd.in/eUGaMvrM https://lnkd.in/eKmWJiZm https://lnkd.in/eQ8u4TQZ https://lnkd.in/ePDDKKDY #SelfLearning #YouTubeUniversity #KnowledgeIsPower #DataScience #DataEngineering #DataAnalysis #LearningJourney #ContinuousLearning #ArabicContent #OpenLearning
+“YouTube كنز غيّر حياتي وطريقة تفكيري… أغلب محتواه عربي.
+رحلة مستمرة من 4 سنوات ولسه مكملة.
+اللي هتلاقوه مش مجرد شوية كورسات… ده محتوى كلية كاملة.
+قبل ما تضيع فلوسك في كورسات مدفوعة، جرب تستغل الكنز المفتوح على YouTube…
+لو ركزت، هتتعلم أكتر بكتير من اللي أي كورس مدفوع ممكن يديه.
+وطبعًا، لو حابب اتجاه معين أو مش عارف تبدأ منين، في ناس مثلك بدأت الرحلة وممكن تبص على مصادر معينة تساعدك على الطريق 😉.”**
+
+Knowledge and experience
+*****************************
+https://lnkd.in/exX7kucc
+https://lnkd.in/e8z9sFDK
+https://lnkd.in/e-KTxjQe
+https://lnkd.in/exXkQ89Y
+https://lnkd.in/esQM8zrt
+https://lnkd.in/ew2qdr3Z
+https://lnkd.in/eZsqZRSQ
+https://lnkd.in/ebGamEGg
+https://lnkd.in/ejaRStJh
+
+Data and business analysis
+***************************
+https://lnkd.in/eSAdbY57
+https://lnkd.in/eS2ppsyc
+https://lnkd.in/euTvs5qP
+https://lnkd.in/eP26wRy5
+https://lnkd.in/ehPuA-ZS
+https://lnkd.in/eCR3vi2Z
+https://lnkd.in/ePJJTzDb
+
+Data engineering
+******************
+https://lnkd.in/eP2iW6_v
+https://lnkd.in/ezr2WFYi
+https://lnkd.in/eaeiMNC8
+https://lnkd.in/eWyqJ7Ns
+https://lnkd.in/enR_Y-yR
+
+Data science
+*************
+https://lnkd.in/ej2NzaWg
+https://lnkd.in/e4RgxjPe
+https://lnkd.in/esM8znSp
+https://lnkd.in/ejjdGfc9
+https://lnkd.in/ewuq6H9b
+https://lnkd.in/eyarherK
+https://lnkd.in/eEq5-s6Z
+https://lnkd.in/ep-BH6SR
+https://lnkd.in/eWP4xnUN
+https://lnkd.in/e9tcD-Gg
+https://lnkd.in/eu9gFfNV
+https://lnkd.in/eidr_7Aj
+https://lnkd.in/ewTpiZh8
+https://lnkd.in/erE5sCRr
+https://lnkd.in/eTS787JJ
+https://lnkd.in/eCF7ehDs
+https://lnkd.in/enr4iZbE
+https://lnkd.in/eUGaMvrM
+https://lnkd.in/eKmWJiZm
+https://lnkd.in/eQ8u4TQZ
+https://lnkd.in/ePDDKKDY
+
+hashtag#SelfLearning
+ hashtag#YouTubeUniversity
+ hashtag#KnowledgeIsPower
+ hashtag#DataScience
+ hashtag#DataEngineering
+ hashtag#DataAnalysis
+ hashtag#LearningJourney
+ hashtag#ContinuousLearning
+ hashtag#ArabicContent
+ hashtag#OpenLearning…show more
+lovelike
+3
+ 280
+Impressions
+View analytics
+Amr Adel posted this • 3d3d
+مؤخرًا جربت أداة FlowCV في عملت الـ CV وكانت التجربة مختلفة تمامًا عن كتابة الـ CV على Word. المنصة بتوفر تصميم احترافي، سهولة في التخصيص، وبتخلي النتيجة النهائية أكثر وضوحًا وجاذبية. حابب أشكر المهندس Ahmed Essam لأنه هو اللي عرفني على الأداة دي وساعدني أطلع الـ CV بالشكل اللي هتشوفوه هنا. #AI #DataScience #CareerGrowth #FlowCV #Resume, CV
+مؤخرًا جربت أداة FlowCV في عملت الـ CV وكانت التجربة مختلفة تمامًا عن كتابة الـ CV على Word. المنصة بتوفر تصميم احترافي، سهولة في التخصيص، وبتخلي النتيجة النهائية أكثر وضوحًا وجاذبية.
+
+حابب أشكر المهندس Ahmed Essam لأنه هو اللي عرفني على الأداة دي وساعدني أطلع الـ CV بالشكل اللي هتشوفوه هنا.
+
+hashtag#AI hashtag#DataScience hashtag#CareerGrowth hashtag#FlowCV hashtag#Resume…show more
+
+CV
+3 pages
+love
+2
+Mona Talaat and 1 other
+1 comment
+ 276
+Impressions
+View analytics
+Amr Adel posted this • 1w1w
+One of the biggest hidden problems in business consulting projects isn’t strategy. It’s Data. Before any consultant can build models like: Porter’s Five Forces PESTEL / SWOT Analysis Financial projections (ROI or P/E) There is a fundamental challenge that most people don’t talk about: Where does the data actually come from? In many consulting projects, the real struggle lies in: Collecting external market data. Combining it with internal company data. Cleaning and aligning it despite differences in formats, dates, and structures. Only then can you produce insights that support real decisions. This is where a strange gap appears: The Technical Side: Professionals who excel at building APIs, scraping data, and designing pipelines—but often lack the "Business Context" to know which question they are actually trying to answer. The Strategy Side: Consultants who deeply understand markets and financial metrics—but often rely on static data prepared by someone else, limiting their ability to explore real-time possibilities. My perspective on this gap was heavily shaped by two major influences: The insights from Ahmed Elemam and the strategic depth of the Businessبالعربي podcast. These two sources were instrumental in building my mindset: viewing technology not just as code, but as a lever for business growth. This intersection is exactly why I describe myself as a Business Data Scientist, not just a Data Scientist. My goal is to be the bridge: I sit with Strategy Teams to understand the decision they need to make, then identify the specific data architecture required to unlock that answer. I sit with Technical Teams to translate those business problems into robust systems that can actually solve them. Whether the solution is a new dataset, a custom pipeline, or an AI agent—it’s all about connecting business thinking with technical capability. This is the role I am currently growing into, and I believe it's where the most value is created in today's economy. #DataScience #BusinessIntelligence #StrategyConsulting #BusinessDataScientist #DataStrategy #DigitalTransformation #AIinBusiness #Analytics #MarketResearch #BusinessEngineering #AhmedElemam #Businessبالعربي #DataArchitecture #DecisionScience #GrowthMindset #NLP #RAG #OperationsResearch
+
+One of the biggest hidden problems in business consulting projects isn’t strategy. It’s Data.
+
+Before any consultant can build models like:
+Porter’s Five Forces
+PESTEL / SWOT Analysis
+Financial projections (ROI or P/E)
+
+There is a fundamental challenge that most people don’t talk about: Where does the data actually come from?
+
+In many consulting projects, the real struggle lies in:
+Collecting external market data.
+
+Combining it with internal company data.
+
+Cleaning and aligning it despite differences in formats, dates, and structures.
+
+Only then can you produce insights that support real decisions.
+
+This is where a strange gap appears:
+
+The Technical Side: Professionals who excel at building APIs, scraping data, and designing pipelines—but often lack the "Business Context" to know which question they are actually trying to answer.
+
+The Strategy Side: Consultants who deeply understand markets and financial metrics—but often rely on static data prepared by someone else, limiting their ability to explore real-time possibilities.
+
+My perspective on this gap was heavily shaped by two major influences: The insights from Ahmed Elemam and the strategic depth of the Businessبالعربي podcast. These two sources were instrumental in building my mindset: viewing technology not just as code, but as a lever for business growth.
+
+This intersection is exactly why I describe myself as a Business Data Scientist, not just a Data Scientist.
+
+My goal is to be the bridge:
+I sit with Strategy Teams to understand the decision they need to make, then identify the specific data architecture required to unlock that answer.
+I sit with Technical Teams to translate those business problems into robust systems that can actually solve them.
+Whether the solution is a new dataset, a custom pipeline, or an AI agent—it’s all about connecting business thinking with technical capability. This is the role I am currently growing into, and I believe it's where the most value is created in today's economy.
+
+hashtag#DataScience hashtag#BusinessIntelligence hashtag#StrategyConsulting hashtag#BusinessDataScientist hashtag#DataStrategy hashtag#DigitalTransformation hashtag#AIinBusiness hashtag#Analytics hashtag#MarketResearch hashtag#BusinessEngineering hashtag#AhmedElemam hashtag#Businessبالعربي hashtag#DataArchitecture hashtag#DecisionScience hashtag#GrowthMindset hashtag#NLP hashtag#RAG hashtag#OperationsResearch…show more
+like
+4
+Nader Mohamed and 3 others
+ 271
+Impressions
+View analytics
+Amr Adel posted this • 3mo3mo
+Turning Insurance Data into ML-Driven Business Decisions I worked on an end-to-end insurance customer analytics project, focused on applying Machine Learning to real business use cases rather than pure exploration. ML work highlights: 🤖 Classification model to predict customer Response to marketing campaigns 📈 Regression models for Customer Lifetime Value (CLV) estimation 🔍 Customer segmentation (clustering) based on value, risk, and loyalty ⚠️ Business-driven feature engineering using claims history, policy duration, and vehicle attributes The project was designed with a business-first ML mindset: clear targets, interpretable features, and outputs directly linked to ROI, retention, and risk reduction. 🔗 GitHub project: https://lnkd.in/euPvfSfh #MachineLearning #AppliedML #BusinessAnalytics #InsuranceAnalytics #CustomerSegmentation #CustomerLifetimeValue #PredictiveModeling #AIForBusiness #Flink_Business_Solutions #Flink #Business_Solutions
+No alternative text description for this image
+Turning Insurance Data into ML-Driven Business Decisions
+I worked on an end-to-end insurance customer analytics project, focused on applying Machine Learning to real business use cases rather than pure exploration.
+ML work highlights:
+🤖 Classification model to predict customer Response to marketing campaigns
+📈 Regression models for Customer Lifetime Value (CLV) estimation
+🔍 Customer segmentation (clustering) based on value, risk, and loyalty
+⚠️ Business-driven feature engineering using claims history, policy duration, and vehicle attributes
+The project was designed with a business-first ML mindset:
+clear targets, interpretable features, and outputs directly linked to ROI, retention, and risk reduction.
+🔗 GitHub project:
+https://lnkd.in/euPvfSfh
+
+hashtag#MachineLearning
+hashtag#AppliedML
+hashtag#BusinessAnalytics
+hashtag#InsuranceAnalytics
+hashtag#CustomerSegmentation
+hashtag#CustomerLifetimeValue
+hashtag#PredictiveModeling
+hashtag#AIForBusiness
+hashtag#Flink_Business_Solutions
+hashtag#Flink
+hashtag#Business_Solutions…show more
+like
+2
+ 269
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+⚠️ Gold vs. AI: The Great Market Distortion The economic compass is broken. 🧭 Historically, Gold (Safety) and Stocks (Risk) moved in opposite directions. Today, both are hitting record highs. This isn't just growth—it's a structural anomaly. 🔍 The Breakdown: • Gold 📈: Driven by Central Bank hedging and a flight to "Real Assets" amid geopolitical tension. • AI 🚀: Driven by speculative liquidity and hype, often detached from actual operating profits. 📌 The Paradox: Gold reflects deep-seated fear; AI reflects hyper-optimism. When "Safe Havens" and "Speculative Bubbles" rally together, a major market re-pricing is usually on the horizon. 🛠 My Current Project: I’m building a framework to decode this "noise" using: ✅ NLP for Global Macro Sentiment ✅ Time Series for Asset Correlation (Gold/Tech/Energy) ✅ Machine Learning for Risk Modeling We need data-backed intelligence, not just market opinions. 👇 Question for the experts: Is this market resilience, or the calm before a systemic reset? #Gold #AI #MacroEconomics #DataScience #FinTech #MarketSignals #RiskManagement, Gold & AI
+⚠️ Gold vs. AI: The Great Market Distortion
+
+The economic compass is broken. 🧭
+Historically, Gold (Safety) and Stocks (Risk) moved in opposite directions. Today, both are hitting record highs. This isn't just growth—it's a structural anomaly.
+
+🔍 The Breakdown: • Gold 📈: Driven by Central Bank hedging and a flight to "Real Assets" amid geopolitical tension. • AI 🚀: Driven by speculative liquidity and hype, often detached from actual operating profits.
+
+📌 The Paradox: Gold reflects deep-seated fear; AI reflects hyper-optimism. When "Safe Havens" and "Speculative Bubbles" rally together, a major market re-pricing is usually on the horizon.
+
+🛠 My Current Project: I’m building a framework to decode this "noise" using: ✅ NLP for Global Macro Sentiment ✅ Time Series for Asset Correlation (Gold/Tech/Energy) ✅ Machine Learning for Risk Modeling
+We need data-backed intelligence, not just market opinions.
+
+👇 Question for the experts: Is this market resilience, or the calm before a systemic reset?
+
+hashtag#Gold hashtag#AI hashtag#MacroEconomics hashtag#DataScience hashtag#FinTech hashtag#MarketSignals hashtag#RiskManagement…show more
+
+Gold & AI
+9 pages
+ 267
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+Excited to dive into the emerging world of Business Engineering! 🚀 In today's fast-evolving landscape, the role of a Business Engineer is revolutionizing how we bridge the gap between business acumen and cutting-edge technology. It's not just about knowing one side—it's about deeply integrating expertise in finance, marketing, sales, and customer service with technical prowess in data analysis, machine learning (ML), natural language processing (NLP), Auto AI, Retrieval-Augmented Generation (RAG), AI agents, and data pipelines. Imagine having the ability to not only understand market dynamics and customer needs but also leverage AI-driven insights to craft strategies that drive real, transformative change. This fusion creates professionals with superpowers: optimizing operations, predicting trends, personalizing experiences, and scaling businesses in ways that were once impossible. With my background in Business Administration and my current role as a Data Scientist, I've recently started weaving these worlds together—learning to connect business strategies with tech innovations. It's challenging but incredibly rewarding, and I believe this hybrid skillset is the future for anyone looking to lead in AI-powered enterprises. What are your thoughts on Business Engineering? Have you explored this intersection? Let's connect and share insights! #BusinessEngineering #AIinBusiness #DataScience #MachineLearning #Innovation , #AI
+
+Excited to dive into the emerging world of Business Engineering! 🚀
+In today's fast-evolving landscape, the role of a Business Engineer is revolutionizing how we bridge the gap between business acumen and cutting-edge technology. It's not just about knowing one side—it's about deeply integrating expertise in finance, marketing, sales, and customer service with technical prowess in data analysis, machine learning (ML), natural language processing (NLP), Auto AI, Retrieval-Augmented Generation (RAG), AI agents, and data pipelines.
+Imagine having the ability to not only understand market dynamics and customer needs but also leverage AI-driven insights to craft strategies that drive real, transformative change. This fusion creates professionals with superpowers: optimizing operations, predicting trends, personalizing experiences, and scaling businesses in ways that were once impossible.
+With my background in Business Administration and my current role as a Data Scientist, I've recently started weaving these worlds together—learning to connect business strategies with tech innovations. It's challenging but incredibly rewarding, and I believe this hybrid skillset is the future for anyone looking to lead in AI-powered enterprises.
+What are your thoughts on Business Engineering? Have you explored this intersection? Let's connect and share insights!
+hashtag#BusinessEngineering hashtag#AIinBusiness hashtag#DataScience hashtag#MachineLearning hashtag#Innovation , hashtag#AI…show more
+lovelikesupport
+5
+ 257
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+🇪🇬 معهد بحوث الإلكترونيات (ERI): صرح تكنولوجي عالمي على أرض مصرية فخور جداً بزيارتي الملهمة لـ معهد بحوث الإلكترونيات (ERI)، المركز البحثي التابع لوزارة البحث العلمي والذي يُعد نموذجاً مشرفاً للابتكار المحلي بمقاييس عالمية. 💡 ما الذي يجعل ERI متميزاً؟ تأسس المعهد عام 1989 ليصبح شريكاً استراتيجياً للحكومة والصناعة، حيث يدمج بين الأبحاث النظرية والتطبيقات العملية في مجالات حيوية: تخصصات متكاملة: يضم أقساماً متطورة تشمل (الحاسبات، المعلوماتية، الميكروإلكترونيات، الطاقة والميكروويف، وإلكترونيات القدرة). حلول شاملة: يمتلك المعهد قدرة فائقة على تطوير مشاريع معقدة تدمج بين الـ Hardware، الـ Software، والذكاء الاصطناعي. دعم التوطين: يلعب دوراً محورياً في التحول الرقمي وتوطين التكنولوجيا المتقدمة في مصر. 🚀 انطباعي الشخصي: "أكثر من مجرد معمل" خلال زيارتي للعمل على مشروع Bed Smart & Mattress Smart، لمستُ مستوى من الاحترافية والبنية التحتية يضاهي المراكز العالمية. رؤية الباحثين المصريين وهم يطورون حلولاً تكنولوجية متقدمة تعطي شعوراً حقيقياً بالفخر وتؤكد أننا قادرون على المنافسة في أقوى الأسواق التكنولوجية. الخلاصة: التميز في مصر ليس مجرد طموح، بل هو واقع نعيشه داخل مؤسسات مثل ERI. نحن نمتلك العقول والقدرات التي تضعنا في مقدمة سباق الابتكار الرقمي. #تكنولوجيا #مصر_الرقمية #البحث_العلمي #ابتكار #ERI #Electronics #AI #EgyptTech #Innovation
+No alternative text description for this image
+🇪🇬 معهد بحوث الإلكترونيات (ERI): صرح تكنولوجي عالمي على أرض مصرية
+
+فخور جداً بزيارتي الملهمة لـ معهد بحوث الإلكترونيات (ERI)، المركز البحثي التابع لوزارة البحث العلمي والذي يُعد نموذجاً مشرفاً للابتكار المحلي بمقاييس عالمية.
+💡 ما الذي يجعل ERI متميزاً؟
+تأسس المعهد عام 1989 ليصبح شريكاً استراتيجياً للحكومة والصناعة، حيث يدمج بين الأبحاث النظرية والتطبيقات العملية في مجالات حيوية:
+تخصصات متكاملة: يضم أقساماً متطورة تشمل (الحاسبات، المعلوماتية، الميكروإلكترونيات، الطاقة والميكروويف، وإلكترونيات القدرة).
+حلول شاملة: يمتلك المعهد قدرة فائقة على تطوير مشاريع معقدة تدمج بين الـ Hardware، الـ Software، والذكاء الاصطناعي.
+دعم التوطين: يلعب دوراً محورياً في التحول الرقمي وتوطين التكنولوجيا المتقدمة في مصر.
+
+🚀 انطباعي الشخصي: "أكثر من مجرد معمل"
+خلال زيارتي للعمل على مشروع Bed Smart & Mattress Smart، لمستُ مستوى من الاحترافية والبنية التحتية يضاهي المراكز العالمية. رؤية الباحثين المصريين وهم يطورون حلولاً تكنولوجية متقدمة تعطي شعوراً حقيقياً بالفخر وتؤكد أننا قادرون على المنافسة في أقوى الأسواق التكنولوجية.
+الخلاصة: التميز في مصر ليس مجرد طموح، بل هو واقع نعيشه داخل مؤسسات مثل ERI. نحن نمتلك العقول والقدرات التي تضعنا في مقدمة سباق الابتكار الرقمي.
+
+hashtag#تكنولوجيا hashtag#مصر_الرقمية hashtag#البحث_العلمي hashtag#ابتكار hashtag#ERI hashtag#Electronics hashtag#AI hashtag#EgyptTech hashtag#Innovation …show more
+like
+2
+ 252
+Impressions
+View analytics
+Amr Adel posted this • 6mo6mo
+🚨 When 90% Accuracy Means Nothing in the Real World I trained an LSTM model on financial time series — results looked amazing (~90% accuracy on training). Everything seemed perfect. Then I tested it on the last 2 years’ data… and the errors exploded 📉. Gold, commodities, ETFs — the model completely broke. At first, I blamed the neural net. But the real issue? Economics, not tech. 👉 The market regime had changed: High inflation Aggressive monetary policy shifts Geopolitical shocks Broken price distributions (concept drift / structural break) The model had learned yesterday’s reality — not today’s. ⚡ Key Insight: The myth of “Gold is always a safe haven” is not always true. Example: If you bought gold in 2011, you had to wait until 2020 just to break even. Gold works best at the start of crises or in stable times — not in peak chaos. 💡 My approach now: Add economic variables (inflation, rates, VIX, policy) beyond prices Use regime-switching models, GARCH, ensembles Apply rolling retraining — because markets evolve, models must adapt 🔗 Try the app here → https://lnkd.in/gf35TB4p 🔗 Check the code on GitHub → https://lnkd.in/gvmCBYXc ⚠️ Pro tip: If you’re not comfortable with PyTorch, don’t mess with Model Settings 😉 ✅ Suggested hashtags (mix broad + niche + trending): #MachineLearning #QuantFinance #DataScience #FinancialMarkets #LSTM #ConceptDrift #TimeSeries #TradingModels #DeepLearning #Investment #Gold #AI #FinTech #Forecasting #Volatility #Econometrics #BigData
+No alternative text description for this image
+🚨 When 90% Accuracy Means Nothing in the Real World
+I trained an LSTM model on financial time series — results looked amazing (~90% accuracy on training). Everything seemed perfect.
+Then I tested it on the last 2 years’ data… and the errors exploded 📉.
+ Gold, commodities, ETFs — the model completely broke.
+At first, I blamed the neural net. But the real issue? Economics, not tech.
+👉 The market regime had changed:
+High inflation
+Aggressive monetary policy shifts
+Geopolitical shocks
+Broken price distributions (concept drift / structural break)
+The model had learned yesterday’s reality — not today’s.
+⚡ Key Insight:
+ The myth of “Gold is always a safe haven” is not always true. Example: If you bought gold in 2011, you had to wait until 2020 just to break even. Gold works best at the start of crises or in stable times — not in peak chaos.
+💡 My approach now:
+Add economic variables (inflation, rates, VIX, policy) beyond prices
+Use regime-switching models, GARCH, ensembles
+Apply rolling retraining — because markets evolve, models must adapt
+🔗 Try the app here → https://lnkd.in/gf35TB4p
+
+ 🔗 Check the code on GitHub → https://lnkd.in/gvmCBYXc
+⚠️ Pro tip: If you’re not comfortable with PyTorch, don’t mess with Model Settings 😉
+✅ Suggested hashtags (mix broad + niche + trending):
+ hashtag#MachineLearning hashtag#QuantFinance hashtag#DataScience hashtag#FinancialMarkets hashtag#LSTM hashtag#ConceptDrift hashtag#TimeSeries hashtag#TradingModels hashtag#DeepLearning hashtag#Investment hashtag#Gold hashtag#AI hashtag#FinTech hashtag#Forecasting hashtag#Volatility hashtag#Econometrics hashtag#BigData…show more
+ 231
+Impressions
+View analytics
+Amr Adel posted this • 3mo3mo
+🚨 When Your ML Model Fails… and It’s NOT the Model I was working on a Machine Learning & Neural Network project to predict order delivery time. I tried different models. Tuned hyperparameters. Improved architectures. 👉 Results were still bad. So I stopped modeling… and started thinking. After digging deeper into the data, I found something strange 👇 No meaningful relationship between delivery delay and: Product size Product weight Product price Shipping cost Even worse: Correlation coefficients were weak and negative In some cases (~ -0.6), the data suggested: The smaller the product, the longer the delivery time 🤯 Which makes zero business sense. At that moment, everything clicked. 🔑 What I learned: 1️⃣ You must understand the business before trusting the data 2️⃣ EDA & visualization come BEFORE any ML model 3️⃣ A bad result doesn’t always mean bad code or a bad model 4️⃣ Sometimes… it’s just experimental / unrealistic data (this one was from Kaggle) 📌 Machine Learning doesn’t fail because it’s weak 📌 It fails when we skip business logic + data understanding This project reminded me that: ML models don’t create truth — data quality and business context do. 🚀 Curious to hear if you’ve faced a similar situation. https://lnkd.in/eGKD-SkX #MachineLearning #DataScience #EDA #BusinessUnderstanding #NeuralNetworks #Analytics #Kaggle #AIProjects #RealWorldData #FLINK #FLINKSolutions #Ecommerce #BusinessEfficiency #BusinessGrowth
+No alternative text description for this image
+🚨 When Your ML Model Fails… and It’s NOT the Model
+I was working on a Machine Learning & Neural Network project to predict order delivery time.
+I tried different models.
+Tuned hyperparameters.
+Improved architectures.
+👉 Results were still bad.
+So I stopped modeling… and started thinking.
+After digging deeper into the data, I found something strange 👇
+No meaningful relationship between delivery delay and:
+Product size
+Product weight
+Product price
+Shipping cost
+Even worse:
+Correlation coefficients were weak and negative
+In some cases (~ -0.6), the data suggested:
+The smaller the product, the longer the delivery time 🤯
+Which makes zero business sense.
+At that moment, everything clicked.
+🔑 What I learned:
+1️⃣ You must understand the business before trusting the data
+2️⃣ EDA & visualization come BEFORE any ML model
+3️⃣ A bad result doesn’t always mean bad code or a bad model
+4️⃣ Sometimes… it’s just experimental / unrealistic data (this one was from Kaggle)
+📌 Machine Learning doesn’t fail because it’s weak
+📌 It fails when we skip business logic + data understanding
+This project reminded me that:
+ML models don’t create truth — data quality and business context do.
+🚀 Curious to hear if you’ve faced a similar situation.
+
+https://lnkd.in/eGKD-SkX
+
+hashtag#MachineLearning hashtag#DataScience hashtag#EDA hashtag#BusinessUnderstanding hashtag#NeuralNetworks
+hashtag#Analytics hashtag#Kaggle hashtag#AIProjects hashtag#RealWorldData
+hashtag#FLINK hashtag#FLINKSolutions hashtag#Ecommerce hashtag#BusinessEfficiency hashtag#BusinessGrowth…show more
+like
+2
+ 227
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+Planning Is Not a Reaction — It’s Engineering the Future Business Engineer Many people think planning is something you do after a problem appears. In business, real planning means seeing the problem before it happens. Through my work across business, data, and technology, I’ve learned that solving problems is less about technical complexity and more about how you think: 🔹 Break before you decide Every big goal can be broken into smaller parts. This shows where speed is possible—and where the real risks live. 🔹 Never plan with a single scenario Every decision has multiple outcomes. Strong leaders think in alternatives and understand how each option affects time, cost, and value. 🔹 Data is not reports — it’s direction Data analysis isn’t about complex numbers. It’s about answering simple questions: What’s working? What isn’t? And why? Clear answers reduce emotional decisions and support smarter growth. 🔹 Planning is a living process Good plans evolve with the market, customers, and real results—not opinions. Bottom line: Successful companies don’t look for people who “fix problems after they happen.” They look for Business Engineers—people who understand the business, read data wisely, and design decisions that prevent problems in the first place. #BusinessEngineer #Leadership #BusinessStrategy #DataDriven #DecisionMaking #ProblemSolving
+
+Planning Is Not a Reaction — It’s Engineering the Future
+ Business Engineer
+Many people think planning is something you do after a problem appears.
+ In business, real planning means seeing the problem before it happens.
+Through my work across business, data, and technology, I’ve learned that solving problems is less about technical complexity and more about how you think:
+🔹 Break before you decide
+ Every big goal can be broken into smaller parts.
+ This shows where speed is possible—and where the real risks live.
+🔹 Never plan with a single scenario
+ Every decision has multiple outcomes.
+ Strong leaders think in alternatives and understand how each option affects time, cost, and value.
+🔹 Data is not reports — it’s direction
+ Data analysis isn’t about complex numbers.
+ It’s about answering simple questions:
+ What’s working? What isn’t? And why?
+ Clear answers reduce emotional decisions and support smarter growth.
+🔹 Planning is a living process
+ Good plans evolve with the market, customers, and real results—not opinions.
+Bottom line:
+ Successful companies don’t look for people who “fix problems after they happen.”
+ They look for Business Engineers—people who understand the business, read data wisely, and design decisions that prevent problems in the first place.
+
+hashtag#BusinessEngineer hashtag#Leadership hashtag#BusinessStrategy hashtag#DataDriven hashtag#DecisionMaking hashtag#ProblemSolving…show more
+ 220
+Impressions
+View analytics
+Amr Adel posted this • 3mo3mo
+🚫 “قررت أسيب Data Sciences.” الفترة اللي فاتت قضيتها شغال كـ Data Sciences: model training، pipelines، feature engineering… وكل التفاصيل اللي عرفها المجال . لكن السوق اتغيّر. والشركات بقت محتاجة AI Products جاهزة مش ML Models بتاخد وقت في التدريب والـ tuning. التركيز دلوقتي بقى على: ✨ LLMs ✨ RAG ✨ AI Agents ✨ Automation ✨ End-to-end AI Systems والطلب على AI Engineer بقى أعلى بكتير… لأنه أقرب للـ impact وللمنتج النهائي. علشان كده… قررت أعمل Shift من Data Sciences → AI Engineer. مش تغيير مجال… ده Upgrade طبيعي للمهارات المطلوبة دلوقتي. الفترة الجاية هركز على: 🔹 LLM apps 🔹 RAG pipelines 🔹 LangChain / LlamaIndex 🔹 AI system design 🔹 Deploying scalable AI services #AI #ArtificialIntelligence #AIEngineer #MachineLearning #GenAI #LLM #RAG #CareerShift #Tech #FutureOfWork
+
+🚫 “قررت أسيب Data Sciences.”
+الفترة اللي فاتت قضيتها شغال كـ Data Sciences:
+ model training، pipelines، feature engineering… وكل التفاصيل اللي عرفها المجال .
+لكن السوق اتغيّر.
+ والشركات بقت محتاجة AI Products جاهزة مش ML Models بتاخد وقت في التدريب والـ tuning.
+التركيز دلوقتي بقى على:
+ ✨ LLMs
+ ✨ RAG
+ ✨ AI Agents
+ ✨ Automation
+ ✨ End-to-end AI Systems
+والطلب على AI Engineer بقى أعلى بكتير… لأنه أقرب للـ impact وللمنتج النهائي.
+علشان كده…
+قررت أعمل Shift من Data Sciences → AI Engineer.
+مش تغيير مجال…
+ ده Upgrade طبيعي للمهارات المطلوبة دلوقتي.
+الفترة الجاية هركز على:
+ 🔹 LLM apps
+ 🔹 RAG pipelines
+ 🔹 LangChain / LlamaIndex
+ 🔹 AI system design
+ 🔹 Deploying scalable AI services
+
+hashtag#AI hashtag#ArtificialIntelligence hashtag#AIEngineer hashtag#MachineLearning hashtag#GenAI hashtag#LLM hashtag#RAG hashtag#CareerShift hashtag#Tech hashtag#FutureOfWork
+…show more
+like
+1
+2 comments
+ 215
+Impressions
+View analytics
+Amr Adel posted this • 1yr1yr
+في العصر الحالي، Data Analysis وMachine Learning بقوا أدوات أساسية لأي شركة بتدور على تحسين كفاءة عملياتها. حوالي 30% من تكلفة أي منتج بتروح على Logistics، وده بيخلينا نشوف قد إيه تحسين النقطة دي ممكن يوفر كتير ويزود الكفاءة بشكل كبير. إزاي Data Analysis و Machine Learning بيساعدوا؟ 1. Demand Forecasting: باستخدام خوارزميات متطورة، الشركات بتقدر تتوقع الطلبات بدقة، وتحدد الكميات المناسبة للإنتاج والتخزين. 2. Inventory Management: بيساعد في القضاء على مشاكل التخزين الزايد أو الناقص، وبيضمن دايمًا إن المخزون يكون في الكمية المناسبة. 3. Route Optimization: بيعتمد على تحليل البيانات لتحديد أفضل المسارات وأكفأ طرق لتوزيع الشحنات، وبالتالي تقليل تكلفة النقل. 4. Cost Reduction: بيعرفك على المشاكل زي العربيات اللي مش شغالة بكامل طاقتها، وبيساعدك تستغل الموارد بشكل أفضل. 5. Performance Monitoring: بتتابع أداء العمليات بشكل مستمر، وبتوفر رؤى لتحسين الكفاءة وحل المشاكل في أسرع وقت. #DataAnalysis #MachineLearning #SupplyChain #Logistics
+
+في العصر الحالي، Data Analysis وMachine Learning بقوا أدوات أساسية لأي شركة بتدور على تحسين كفاءة عملياتها. حوالي 30% من تكلفة أي منتج بتروح على Logistics، وده بيخلينا نشوف قد إيه تحسين النقطة دي ممكن يوفر كتير ويزود الكفاءة بشكل كبير.
+
+إزاي Data Analysis و Machine Learning بيساعدوا؟
+
+1. Demand Forecasting:
+باستخدام خوارزميات متطورة، الشركات بتقدر تتوقع الطلبات بدقة، وتحدد الكميات المناسبة للإنتاج والتخزين.
+
+
+2. Inventory Management:
+بيساعد في القضاء على مشاكل التخزين الزايد أو الناقص، وبيضمن دايمًا إن المخزون يكون في الكمية المناسبة.
+
+
+3. Route Optimization:
+بيعتمد على تحليل البيانات لتحديد أفضل المسارات وأكفأ طرق لتوزيع الشحنات، وبالتالي تقليل تكلفة النقل.
+
+
+4. Cost Reduction:
+بيعرفك على المشاكل زي العربيات اللي مش شغالة بكامل طاقتها، وبيساعدك تستغل الموارد بشكل أفضل.
+
+
+5. Performance Monitoring:
+بتتابع أداء العمليات بشكل مستمر، وبتوفر رؤى لتحسين الكفاءة وحل المشاكل في أسرع وقت.
+hashtag#DataAnalysis
+hashtag#MachineLearning
+hashtag#SupplyChain
+hashtag#Logistics…show more
+insightful
+1
+ 211
+Impressions
+View analytics
+Amr Adel reposted this • 1mo1mo
+مش عارف بحس أن لازم اكون عارف كل حاجه اصل كل ما أقدم فى شركه اكتشف انهم عايزين تنين مجنح 😂
+
+مش عارف بحس أن لازم اكون عارف كل حاجه
+ اصل كل ما أقدم فى شركه اكتشف انهم عايزين تنين مجنح 😂
+ 206
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+متحمس أدخل أكتر في عالم Business Engineering 🚀 الفكرة ببساطة إنك ما تبقاش يا إما “بيزنس” يا إما “تك”، لكن تبقى الاتنين مع بعض في شخص واحد. Business Engineering هو الدمج الحقيقي بين: البيزنس: (الإدارة، التمويل، التسويق، المبيعات، خدمة العملاء) والتكنولوجيا: (تحليل البيانات، الذكاء الاصطناعي، Machine Learning، NLP، Auto AI، RAG، AI Agents، و Data Pipelines) ليه المجال ده مهم؟ لأن الشركات دلوقتي ما بقتش محتاجة حد “يفهم السوق” بس، ولا حد “يكتب كود” وخلاص. المطلوب شخص: يفهم المشكلة التجارية بعمق ويعرف يحولها لحل تقني ذكي ويطلع بقرار مبني على بيانات حقيقية، مش إحساس الـ Business Engineer بيستخدم الذكاء الاصطناعي علشان: يحسّن العمليات يتوقع الاتجاهات يخصص تجربة العميل ويكبر البزنس بشكل ذكي وقابل للتوسع عن نفسي، بخلفيتي في إدارة الأعمال ودوري الحالي كـ Data Scientist، بدأت أشتغل على الربط بين العالمين دول. الطريق مش سهل، بس صريح؟ ده مستقبل القيادة في الشركات اللي هتشتغل بالـ AI بجد، مش شعارات. إيه رأيك في مفهوم Business Engineering؟ هل شايفه مستقبل ولا مجرد مسمى جديد؟ خلّينا نتناقش 👇 #BusinessEngineering #AIinBusiness #DataScience #MachineLearning #Innovation
+متحمس أدخل أكتر في عالم Business Engineering 🚀
+الفكرة ببساطة إنك ما تبقاش يا إما “بيزنس” يا إما “تك”،
+ لكن تبقى الاتنين مع بعض في شخص واحد.
+Business Engineering هو الدمج الحقيقي بين:
+البيزنس:
+ (الإدارة، التمويل، التسويق، المبيعات، خدمة العملاء)
+والتكنولوجيا:
+ (تحليل البيانات، الذكاء الاصطناعي، Machine Learning، NLP، Auto AI، RAG، AI Agents، و Data Pipelines)
+ليه المجال ده مهم؟
+ لأن الشركات دلوقتي ما بقتش محتاجة حد “يفهم السوق” بس،
+ ولا حد “يكتب كود” وخلاص.
+ المطلوب شخص:
+يفهم المشكلة التجارية بعمق
+ويعرف يحولها لحل تقني ذكي
+ويطلع بقرار مبني على بيانات حقيقية، مش إحساس
+الـ Business Engineer بيستخدم الذكاء الاصطناعي علشان:
+يحسّن العمليات
+يتوقع الاتجاهات
+يخصص تجربة العميل
+ويكبر البزنس بشكل ذكي وقابل للتوسع
+عن نفسي، بخلفيتي في إدارة الأعمال ودوري الحالي كـ Data Scientist،
+ بدأت أشتغل على الربط بين العالمين دول.
+ الطريق مش سهل، بس صريح؟
+ ده مستقبل القيادة في الشركات اللي هتشتغل بالـ AI بجد، مش شعارات.
+إيه رأيك في مفهوم Business Engineering؟
+ هل شايفه مستقبل ولا مجرد مسمى جديد؟
+ خلّينا نتناقش 👇
+hashtag#BusinessEngineering hashtag#AIinBusiness hashtag#DataScience hashtag#MachineLearning hashtag#Innovation…show more
+likelovesupport
+7
+1 comment
+ 198
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+5 Pillars of Industry 4.0 that are changing the game. 🛠️🌐 I’ve been diving deep into the latest IBM insights on the 4th Industrial Revolution. The takeaway? It’s not about the "tools"—it’s about the ecosystem. Here is what defines a leader in the Industry 4.0 era: 1️⃣ Interoperability: Machines, sensors, and people connecting and communicating seamlessly. 2️⃣ Information Transparency: Using "Digital Twins" to simulate reality before touching the factory floor. 3️⃣ Technical Assistance: AI that doesn't replace humans but empowers them to make better decisions. 4️⃣ Decentralized Decisions: Systems that can perform tasks and make choices autonomously. 5️⃣ Sustainability: Using data to minimize waste and energy consumption. 🌿 The goal isn't just to be "techy." The goal is to be efficient, resilient, and sustainable. Are you moving toward a Smart Factory, or is your data still trapped in silos? IBM report : https://lnkd.in/esaQVuhN #FutureOfWork #SupplyChain #IIoT #TechTrends #Industry40 #SmartManufacturing #AI #DigitalTransformation #Innovation #IBMThink #IBM
+
+5 Pillars of Industry 4.0 that are changing the game. 🛠️🌐
+
+I’ve been diving deep into the latest IBM insights on the 4th Industrial Revolution. The takeaway? It’s not about the "tools"—it’s about the ecosystem.
+
+Here is what defines a leader in the Industry 4.0 era:
+
+1️⃣ Interoperability: Machines, sensors, and people connecting and communicating seamlessly. 2️⃣ Information Transparency: Using "Digital Twins" to simulate reality before touching the factory floor. 3️⃣ Technical Assistance: AI that doesn't replace humans but empowers them to make better decisions. 4️⃣ Decentralized Decisions: Systems that can perform tasks and make choices autonomously. 5️⃣ Sustainability: Using data to minimize waste and energy consumption. 🌿
+
+The goal isn't just to be "techy." The goal is to be efficient, resilient, and sustainable.
+
+Are you moving toward a Smart Factory, or is your data still trapped in silos?
+
+IBM report : https://lnkd.in/esaQVuhN
+
+hashtag#FutureOfWork hashtag#SupplyChain hashtag#IIoT hashtag#TechTrends hashtag#Industry40
+hashtag#SmartManufacturing hashtag#AI hashtag#DigitalTransformation hashtag#Innovation hashtag#IBMThink hashtag#IBM
+…show more
+like
+3
+ 189
+Impressions
+View analytics
+Amr Adel posted this • 3mo3mo
+Headline: Revolutionizing Health Insights with Local LLMs and Advanced Analytics 🤖🏥 Can we turn complex medical datasets into instant clinical summaries? With the power of Generative AI and Local LLMs, the answer is yes. I’m thrilled to showcase my Healthcare Analytics Dashboard, where I integrated Ollama (Qwen3-Coder) to bridge the gap between hard data and human-readable medical reports. By leveraging streamed AI responses, the platform doesn't just show charts; it interprets them—providing automated clinical summaries for patient clusters and risk groups in real-time. Key AI & Tech Highlights: Local AI Integration: Built-in support for Ollama, ensuring data privacy while generating high-quality medical insights using the qwen3-coder model. Intelligent Clustering: Advanced grouping of patient profiles to reveal hidden health patterns and lifestyle impacts. Anomaly Detection: AI-driven identification of unusual medical profiles for early risk intervention. Dual-Engine UI: A high-performance architecture using Streamlit for deep analytics and NiceGUI for interactive dashboards. Medical Precision: Data is automatically cleaned and clipped to strict medical bounds to ensure the AI analyzes realistic clinical scenarios. This project explores the future of HealthTech, where Generative AI acts as a co-pilot for data-driven medical decisions. 📂 Explore the code on GitHub: https://lnkd.in/ekNbrRde #HealthcareAnalytics #Healthcare #DataScience #MachineLearning #AI #MedicalData #Streamlit #Ollama #Python #DataVisualization #HealthTech #ClinicalAI #AnalyticsForGood #HealthcareBPO #MedicalCoding #CostEfficiency #FLINKSolutions #BusinessOptimization hashtag #BusinessEfficiency #FLINKBusinessSolutions
+
+Headline: Revolutionizing Health Insights with Local LLMs and Advanced Analytics 🤖🏥
+Can we turn complex medical datasets into instant clinical summaries? With the power of Generative AI and Local LLMs, the answer is yes.
+I’m thrilled to showcase my Healthcare Analytics Dashboard, where I integrated Ollama (Qwen3-Coder) to bridge the gap between hard data and human-readable medical reports.
+By leveraging streamed AI responses, the platform doesn't just show charts; it interprets them—providing automated clinical summaries for patient clusters and risk groups in real-time.
+Key AI & Tech Highlights:
+Local AI Integration: Built-in support for Ollama, ensuring data privacy while generating high-quality medical insights using the qwen3-coder model.
+Intelligent Clustering: Advanced grouping of patient profiles to reveal hidden health patterns and lifestyle impacts.
+Anomaly Detection: AI-driven identification of unusual medical profiles for early risk intervention.
+Dual-Engine UI: A high-performance architecture using Streamlit for deep analytics and NiceGUI for interactive dashboards.
+Medical Precision: Data is automatically cleaned and clipped to strict medical bounds to ensure the AI analyzes realistic clinical scenarios.
+This project explores the future of HealthTech, where Generative AI acts as a co-pilot for data-driven medical decisions.
+📂 Explore the code on GitHub: https://lnkd.in/ekNbrRde
+hashtag#HealthcareAnalytics hashtag#Healthcare hashtag#DataScience hashtag#MachineLearning hashtag#AI hashtag#MedicalData hashtag#Streamlit hashtag#Ollama hashtag#Python hashtag#DataVisualization hashtag#HealthTech hashtag#ClinicalAI hashtag#AnalyticsForGood hashtag#HealthcareBPO
+hashtag#MedicalCoding
+hashtag#CostEfficiency
+hashtag#FLINKSolutions
+hashtag#BusinessOptimization hashtag
+hashtag#BusinessEfficiency
+hashtag#FLINKBusinessSolutions…show more
+like
+3
+ 188
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+PCA is More Than Just "Cutting Columns" – It’s Speed & Data Engineering 📉 Many see PCA (Principal Component Analysis) only as a tool to reduce dimensions. But in real-world Business Data Science, its value is much deeper. Here is how to look at PCA from two strategic angles: 1. Column-Level: Efficiency & Acceleration ⚡ When dealing with hundreds of features and high correlation: The Action: PCA compresses correlated features into new "Principal Components." The Math: You can turn 200 features into 20 while keeping ~95% of the information. Business Impact: Faster model training, less overfitting, and better performance for distance-based models. 2. Row-Level: Representation & Fusion This is the "hidden" engineering power of PCA: The Action: Transforming different rows (even from varied sources) into a unified Latent Space. The Use Case: Aligning datasets from different systems or sensors into one structure. Business Impact: Perfect for Data Fusion—like merging IoT sensor logs with business transaction data into a single, clean representation. The Bottom Line 💡 PCA isn't just a preprocessing step; it’s a Data Engineering tool to: ✅ Kill Noise. ✅ Speed up ML Pipelines. ✅ Build "Smart Representations" for complex data. Question for the community: Have you ever used PCA as an engineering fix rather than just a statistical one? hashtag #DataScience #MachineLearning #FeatureEngineering #PCA #AI #BusinessAnalytics
+
+PCA is More Than Just "Cutting Columns" – It’s Speed & Data Engineering 📉
+Many see PCA (Principal Component Analysis) only as a tool to reduce dimensions. But in real-world Business Data Science, its value is much deeper.
+Here is how to look at PCA from two strategic angles:
+
+1. Column-Level: Efficiency & Acceleration ⚡
+
+When dealing with hundreds of features and high correlation:
+The Action: PCA compresses correlated features into new "Principal Components." 
+The Math: You can turn 200 features into 20 while keeping ~95% of the information.
+Business Impact: Faster model training, less overfitting, and better performance for distance-based models.
+
+2. Row-Level: Representation & Fusion 
+
+This is the "hidden" engineering power of PCA:
+The Action: Transforming different rows (even from varied sources) into a unified Latent Space.
+The Use Case: Aligning datasets from different systems or sensors into one structure. 
+Business Impact: Perfect for Data Fusion—like merging IoT sensor logs with business transaction data into a single, clean representation. 
+
+The Bottom Line 💡
+
+PCA isn't just a preprocessing step; it’s a Data Engineering tool to: ✅ Kill Noise. ✅ Speed up ML Pipelines. ✅ Build "Smart Representations" for complex data. 
+Question for the community: Have you ever used PCA as an engineering fix rather than just a statistical one?
+hashtag
+
+hashtag#DataScience 
+hashtag#MachineLearning
+hashtag#FeatureEngineering
+hashtag#PCA 
+hashtag#AI 
+hashtag#BusinessAnalytics…show more
+love
+1
+ 182
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+Transforming Raw Text into Strategic Intelligence: An End-to-End NLP Deep Dive 🚀 Text is more than just characters; it’s hidden data waiting to be decoded. I recently completed a comprehensive NLP project focused on Fake News Detection and Latent Insight Extraction, moving from unstructured data to production-ready insights. Here is the strategic workflow I implemented to bridge the gap between raw text and business-critical decisions: 1️⃣ Precision Preprocessing & Cleaning 🛠️ Data is only as good as its preparation. I built a modular pipeline to normalize text, handle noise (stopword/punctuation removal), and apply advanced Stemming/Lemmatization. This ensures the model learns patterns, not just noise. 2️⃣ Feature Engineering: From Words to Vectors 🔢 I utilized TF-IDF Vectorization to assign mathematical weight to words based on their uniqueness and relevance. This transforms language into a high-dimensional space where algorithms can "see" meaning. 3️⃣ Deep Learning for Predictive Classification 🧠 Moving beyond classical ML, I engineered a custom Deep Neural Network in PyTorch. To ensure the model is robust and efficient, I integrated: Batch Normalization for training stability. Dropout Layers to prevent overfitting and ensure the model generalizes to real-world data. GPU-accelerated training for high-speed iteration. 4️⃣ Topic Modeling: Discovering The "Why" with LDA 🔍 Classification tells us what it is, but Topic Modeling (LDA) tells us what it's about. I applied Latent Dirichlet Allocation to uncover hidden thematic clusters within the news corpus. In a business context, this is the key to automating trend analysis and competitive intelligence. 5️⃣ Metric-Driven Evaluation 📈 A model without rigorous testing is just a guess. Using Confusion Matrices and Detailed Classification Reports (Precision, Recall, F1), I ensured the model doesn't just "predict," but provides reliable accuracy for high-stakes environments. The Bottom Line: Whether it’s detecting misinformation or automating customer sentiment, NLP is the bridge to scaling human-like understanding across millions of documents. Explore the full project, documentation, and source code here: 📂 GitHub Repository: https://lnkd.in/e4PdUtPp 📓 Interactive Google Colab: https://lnkd.in/eNyPud6P #NLP #DeepLearning #PyTorch #DataScience #TopicModeling #MachineLearning #AI #TextAnalytics #Python #GitHub #FLINK #business #FLINKBusinessSolutions #FLINKSolutions
+No alternative text description for this image
+Transforming Raw Text into Strategic Intelligence: An End-to-End NLP Deep Dive 🚀
+Text is more than just characters; it’s hidden data waiting to be decoded. I recently completed a comprehensive NLP project focused on Fake News Detection and Latent Insight Extraction, moving from unstructured data to production-ready insights.
+Here is the strategic workflow I implemented to bridge the gap between raw text and business-critical decisions:
+1️⃣ Precision Preprocessing & Cleaning 🛠️ Data is only as good as its preparation. I built a modular pipeline to normalize text, handle noise (stopword/punctuation removal), and apply advanced Stemming/Lemmatization. This ensures the model learns patterns, not just noise.
+2️⃣ Feature Engineering: From Words to Vectors 🔢 I utilized TF-IDF Vectorization to assign mathematical weight to words based on their uniqueness and relevance. This transforms language into a high-dimensional space where algorithms can "see" meaning.
+3️⃣ Deep Learning for Predictive Classification 🧠 Moving beyond classical ML, I engineered a custom Deep Neural Network in PyTorch. To ensure the model is robust and efficient, I integrated:
+Batch Normalization for training stability.
+Dropout Layers to prevent overfitting and ensure the model generalizes to real-world data.
+GPU-accelerated training for high-speed iteration.
+4️⃣ Topic Modeling: Discovering The "Why" with LDA 🔍 Classification tells us what it is, but Topic Modeling (LDA) tells us what it's about. I applied Latent Dirichlet Allocation to uncover hidden thematic clusters within the news corpus. In a business context, this is the key to automating trend analysis and competitive intelligence.
+5️⃣ Metric-Driven Evaluation 📈 A model without rigorous testing is just a guess. Using Confusion Matrices and Detailed Classification Reports (Precision, Recall, F1), I ensured the model doesn't just "predict," but provides reliable accuracy for high-stakes environments.
+The Bottom Line: Whether it’s detecting misinformation or automating customer sentiment, NLP is the bridge to scaling human-like understanding across millions of documents.
+Explore the full project, documentation, and source code here: 📂 GitHub Repository: https://lnkd.in/e4PdUtPp 📓 Interactive Google Colab: https://lnkd.in/eNyPud6P
+hashtag#NLP hashtag#DeepLearning hashtag#PyTorch hashtag#DataScience hashtag#TopicModeling hashtag#MachineLearning hashtag#AI hashtag#TextAnalytics hashtag#Python hashtag#GitHub hashtag#FLINK hashtag#business 
+hashtag#FLINKBusinessSolutions hashtag#FLINKSolutions…show more
+like
+1
+ 182
+Impressions
+View analytics
+Amr Adel posted this • 3w3w
+بصراحة… الكورس ده تقيل 😅 VLM Finetuning لمعالجة مستندات العربية ضعيفة الجودة في أوله بشمهندس أبو بكر قال إن أي حد بيكتب Python يقدر يسمعه. هو فعلاً ممكن تسمعه… لكن مش سهل تفهمه من أول مرة. لأن المحتوى عميق جدًا. مش مجرد كود وخلاص. هو من النوع اللي يفتح عليك باب بحث وتفكير جديد. وأكتر حاجة حسيتها إن الفرق كبير بين واحد بيجرب موديل وواحد فاهم هو بيبني سيستم كامل إزاي. المفاهيم اللي اتكلم عنها كانت تقيلة فعلًا: Vision Language Models (VLMs) Data Strategy Synthetic Data LoRA Knowledge Distillation LlamaFactory Vast.ai Weights & Biases (WandB) vLLM LoRA Merge الكورس خلاني أفهم قد إيه موضوع الـ AI مش مجرد Training وخلاص. في Layers كتير من التفكير ورا أي حاجة بتتبني صح. من النوع اللي تخلصه وتحس إن دماغك اتفتحت… وفي نفس الوقت محتاج ترجعه تاني 😄 لو حد مهتم بـ AI Engineering أو Document AI بالعربي، الكورس ده يستاهل الوقت فعلًا. بس ادخل وانت جاهز تركز 😉 https://lnkd.in/diqbmKkn , Finetune VLMs for Complex Arabic OCR: The Complete 3.5-Hour Masterclass, youtube.com
+بصراحة…
+ الكورس ده تقيل 😅
+
+ VLM Finetuning لمعالجة مستندات العربية ضعيفة الجودة
+في أوله بشمهندس أبو بكر قال إن أي حد بيكتب Python يقدر يسمعه.
+ هو فعلاً ممكن تسمعه…
+ لكن مش سهل تفهمه من أول مرة.
+لأن المحتوى عميق جدًا.
+ مش مجرد كود وخلاص.
+ هو من النوع اللي يفتح عليك باب بحث وتفكير جديد.
+وأكتر حاجة حسيتها إن الفرق كبير بين
+ واحد بيجرب موديل
+ وواحد فاهم هو بيبني سيستم كامل إزاي.
+المفاهيم اللي اتكلم عنها كانت تقيلة فعلًا:
+Vision Language Models (VLMs)
+Data Strategy
+Synthetic Data
+LoRA
+Knowledge Distillation
+LlamaFactory
+Vast.ai
+Weights & Biases (WandB)
+vLLM
+LoRA Merge
+الكورس خلاني أفهم قد إيه موضوع الـ AI مش مجرد Training وخلاص.
+ في Layers كتير من التفكير ورا أي حاجة بتتبني صح.
+من النوع اللي تخلصه وتحس إن دماغك اتفتحت…
+ وفي نفس الوقت محتاج ترجعه تاني 😄
+لو حد مهتم بـ AI Engineering أو Document AI بالعربي،
+ الكورس ده يستاهل الوقت فعلًا.
+بس ادخل وانت جاهز تركز 😉
+
+https://lnkd.in/diqbmKkn
+…show more
+
+Finetune VLMs for Complex Arabic OCR: The Complete 3.5-Hour Masterclass
+youtube.com
+like
+1
+ 174
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+It was a great day and I'm excited for the next day of the exhibition 12/2
+
+It was a great day and I'm excited for the next day of the exhibition 12/2
+love
+1
+ 173
+Impressions
+View analytics
+Amr Adel posted this • 3d3d
+الشركات بتخسر كفاءات مرعبة بسبب "TOOLS Checklist" ! ❌ بقالي فترة بتابع سوق العمل وبحضر بعض interview، ولاحظت مشكلة بتتكرر كثير.. التقييم أصبح مبني على "حفظ أسماء الأدوات" مش على "فهم المشكلة". الموقف ده بيتكرر حرفياً: أقول: بستخدم Python و FastAPI في عمل الـ Automation. الرد: طب معاك خبرة في n8n؟ أقول: ببني Neural Networks وبطلع نتائج دقيقة. الرد: للاسف إحنا محتاجين حد بيشتغل TensorFlow مش PyTorch. المشكلة هنا فين؟ إننا بنتعامل مع المهندس كأنه "صنايعي أداة" مش "صاحب حلول". الأدوات (Tools) بتتغير كل يوم، والمهندس الشاطر بيتعلم أي أداة في أيام.. لكن اللي بيعيش هو الـ Logic والقدرة على تطويع التكنولوجيا عشان تخدم البيزنس وتجيب نتائج حقيقية (ROI). أنا حالياً في مرحلة استكشاف لفرص جديدة، وأكتر حاجة بتلفت نظري هي الشركات اللي بتسأل: "إزاي هتحل المشكلة دي؟" مش "أنت حافظ كام Tool؟" الشركات اللي بتبني "Business Intelligence" حقيقي هي اللي بتدور على العقلية اللي بتفكر في المكسب والنتائج قبل ما تفكر في اسم الأداة. #Hiring #Recruitment #HR #TalentAcquisition   #DataScience #ArtificialIntelligence #MachineLearning   #Technology #CloudComputing   #FutureOfWork #Innovation #ProblemSolving   #CareerAdvice #TechCareers
+
+الشركات بتخسر كفاءات مرعبة بسبب "TOOLS Checklist" ! ❌
+
+بقالي فترة بتابع سوق العمل وبحضر بعض interview، ولاحظت مشكلة بتتكرر كثير.. التقييم أصبح مبني على "حفظ أسماء الأدوات" مش على "فهم المشكلة".
+الموقف ده بيتكرر حرفياً:
+
+أقول: بستخدم Python و FastAPI في عمل الـ Automation.
+الرد: طب معاك خبرة في n8n؟
+
+أقول: ببني Neural Networks وبطلع نتائج دقيقة.
+الرد: للاسف إحنا محتاجين حد بيشتغل TensorFlow مش PyTorch.
+
+المشكلة هنا فين؟ إننا بنتعامل مع المهندس كأنه "صنايعي أداة" مش "صاحب حلول".
+الأدوات (Tools) بتتغير كل يوم، والمهندس الشاطر بيتعلم أي أداة في أيام.. لكن اللي بيعيش هو الـ Logic والقدرة على تطويع التكنولوجيا عشان تخدم البيزنس وتجيب نتائج حقيقية (ROI).
+
+أنا حالياً في مرحلة استكشاف لفرص جديدة، وأكتر حاجة بتلفت نظري هي الشركات اللي بتسأل: "إزاي هتحل المشكلة دي؟" مش "أنت حافظ كام Tool؟"
+الشركات اللي بتبني "Business Intelligence" حقيقي هي اللي بتدور على العقلية اللي بتفكر في المكسب والنتائج قبل ما تفكر في اسم الأداة.
+ 
+hashtag#Hiring hashtag#Recruitment hashtag#HR hashtag#TalentAcquisition 
+hashtag#DataScience hashtag#ArtificialIntelligence hashtag#MachineLearning 
+hashtag#Technology hashtag#CloudComputing 
+hashtag#FutureOfWork hashtag#Innovation hashtag#ProblemSolving 
+hashtag#CareerAdvice hashtag#TechCareers…show more
+like
+1
+ 172
+Impressions
+View analytics
+Amr Adel reposted this • 1mo1mo
+فهم 40% من اى مجال جديد بيخليك جاهز تطلع منتج مع ai لكن فهم العمق و ال Base هيخليك تخترع مجالات جديدة
+فهم 40% من اى مجال جديد بيخليك جاهز تطلع منتج مع ai لكن فهم العمق و ال Base هيخليك تخترع مجالات جديدة 
+Mohamed Hammad
+جزء كبير من اللي كان المهندسين بيتكلموا عنه باعتباره خبرات بالغة القيمة بقي ممكن تسأل عنه و تاخد إجابات ممتازة لو عارف تصيغ سؤالك كويس لأي LLM كويس. القيمة الأكبر حاليا ليست فيما تعرف لكن في،قدرتك علي اكتساب معرفة و الانتقال بين المواضيع المختلفة بسهولة و هنا بقي فهم الأسس النظرية و الرياضية لو شغلك فيه خوارزميات عنيفة هتفرق الناس عن بعض جدا. اتعلم كويس علشان متبقاش شايف رؤية سطحية تخلي انتقالك من موضوع الي موضوع بطيئة و بالتالي استفادتك من LLM محدودة.
+like
+1
+ 166
+Impressions
+View analytics
+Amr Adel reposted this • 1w1w
+الواحد من كتر ال tools و التطورات الجديد زهق كل يوم يغير خطه مش عارف اثبت على roadmap شهر 😂
+
+الواحد من كتر ال tools و التطورات الجديد زهق كل يوم يغير خطه مش عارف اثبت على roadmap شهر 😂 
+lovefunny
+2
+mohamed khaled and 1 other
+ 160
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+مش لازم تبدأ من مصادر معقدة أو لغة أجنبية. الكتاب ده بيشرح Data Science بالمشاريع وبالعربي، خطوة بخطوة، من الأساس. لو لسه بتبدأ… ده مكان كويس تبدأ منه 👌, Data science projects
+مش لازم تبدأ من مصادر معقدة أو لغة أجنبية.
+ الكتاب ده بيشرح Data Science بالمشاريع وبالعربي، خطوة بخطوة، من الأساس.
+ لو لسه بتبدأ… ده مكان كويس تبدأ منه 👌…show more
+
+Data science projects
+231 pages
+love
+1
+ 155
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+كيف أهدت Google العرش لـ OpenAI؟ قصة الاختراع الذي لم يتحول لمنتج! 🚀 في 2017، لم تطلق Google نموذجاً جديداً فحسب، بل أعادت اختراع "عقل" الذكاء الاصطناعي. 🔥 قبل 2017: كان العالم محبوساً في سجن الـ RNN و LSTM. رغم ثوريتها، كانت تعاني من "أمراض" تقنية قاتلة: 🐢 بطء التدريب (Sequential processing). 🧠 ذاكرة قصيرة المدى (صعوبة فهم السياق الطويل). 📉 استحالة التوسع (Scalability Nightmare). اللحظة الفارقة: ورقة بحثية من 8 صفحات بعنوان “Attention Is All You Need” قلبت الموازين. ظهر الـ Transformer ليقول للآلة: "لا تقرئي الكلمات بالترتيب.. انظري للجملة ككتلة واحدة!" النتيجة؟ انفجار في قدرات الـ NLP: ✅ معالجة متوازية (سرعة جنونية). ✅ فهم السياق البعيد بدقة مذهلة. ✅ ثورة في الترجمة، البحث، والتلخيص. المفارقة الصادمة: Google هي "الوحش" الحقيقي! 🧠 جوجل لم تكتفِ بالاختراع، بل بنت فوقه: 1️⃣ BERT (فهم السياق كما لم يحدث من قبل). 2️⃣ BART (المهندس الخفي وراء أقوى تطبيقات المعالجة). 3️⃣ أكبر كنز بيانات في الكوكب (Search, YouTube, Gmail). لكن.. أين الخطأ؟ 🔒 جوجل حبست هذه العبقرية "داخل الأسوار". استخدمتها لتحسين محرك بحثها وإعلاناتها، ولم تقدم "منتجاً صريحاً" يلمسه المستخدم العادي. وهنا دخلت OpenAI بذكاء الـ Business Model 🚀: هم لم يخترعوا "العجلة"، بل أخذوا "محرك" جوجل، وبنوا حوله سيارة سباق اسمها ChatGPT. OpenAI لم تبيع "نموذجاً"، بل باعت "تجربة مستخدم" (UX). 📌 الدرس المستفاد لكل مهندس، رائد أعمال، ومحلل بيانات: الابتكار ليس مجرد بحث علمي (Research).. الابتكار الحقيقي هو: [بحث + منتج + توقيت + تجربة مستخدم] قد تمتلك أقوى تقنية في العالم، لكن إذا بقيت في "المعمل"، فسيأتي من يأخذها ويغير بها "السوق". 😉 #الذكاء_الاصطناعي #جوجل #تكنولوجيا #بزنس #AI #Transformers #Google #OpenAI #ProductManagement #DataScience #Innovation, Transformer
+كيف أهدت Google العرش لـ OpenAI؟ قصة الاختراع الذي لم يتحول لمنتج! 🚀
+
+في 2017، لم تطلق Google نموذجاً جديداً فحسب، بل أعادت اختراع "عقل" الذكاء الاصطناعي. 🔥
+قبل 2017: كان العالم محبوساً في سجن الـ RNN و LSTM. رغم ثوريتها، كانت تعاني من "أمراض" تقنية قاتلة: 🐢 بطء التدريب (Sequential processing). 🧠 ذاكرة قصيرة المدى (صعوبة فهم السياق الطويل). 📉 استحالة التوسع (Scalability Nightmare).
+اللحظة الفارقة: ورقة بحثية من 8 صفحات بعنوان “Attention Is All You Need” قلبت الموازين. ظهر الـ Transformer ليقول للآلة: "لا تقرئي الكلمات بالترتيب.. انظري للجملة ككتلة واحدة!"
+النتيجة؟ انفجار في قدرات الـ NLP: ✅ معالجة متوازية (سرعة جنونية). ✅ فهم السياق البعيد بدقة مذهلة. ✅ ثورة في الترجمة، البحث، والتلخيص.
+المفارقة الصادمة: Google هي "الوحش" الحقيقي! 🧠 جوجل لم تكتفِ بالاختراع، بل بنت فوقه: 1️⃣ BERT (فهم السياق كما لم يحدث من قبل). 2️⃣ BART (المهندس الخفي وراء أقوى تطبيقات المعالجة). 3️⃣ أكبر كنز بيانات في الكوكب (Search, YouTube, Gmail).
+لكن.. أين الخطأ؟ 🔒 جوجل حبست هذه العبقرية "داخل الأسوار". استخدمتها لتحسين محرك بحثها وإعلاناتها، ولم تقدم "منتجاً صريحاً" يلمسه المستخدم العادي.
+وهنا دخلت OpenAI بذكاء الـ Business Model 🚀: هم لم يخترعوا "العجلة"، بل أخذوا "محرك" جوجل، وبنوا حوله سيارة سباق اسمها ChatGPT. OpenAI لم تبيع "نموذجاً"، بل باعت "تجربة مستخدم" (UX).
+📌 الدرس المستفاد لكل مهندس، رائد أعمال، ومحلل بيانات: الابتكار ليس مجرد بحث علمي (Research).. الابتكار الحقيقي هو: [بحث + منتج + توقيت + تجربة مستخدم]
+قد تمتلك أقوى تقنية في العالم، لكن إذا بقيت في "المعمل"، فسيأتي من يأخذها ويغير بها "السوق". 😉
+
+hashtag#الذكاء_الاصطناعي hashtag#جوجل hashtag#تكنولوجيا hashtag#بزنس hashtag#AI hashtag#Transformers hashtag#Google hashtag#OpenAI hashtag#ProductManagement hashtag#DataScience hashtag#Innovation…show more
+
+Transformer
+38 pages
+like
+4
+1 comment
+ 154
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+In a world powered by intelligence, connection is everything. I’m excited to attend AI Everything MEA Egypt - the region’s most global platform for AI leaders, startups, investors, and decision-makers. The future of AI in the region isn’t being imagined, it’s being built. #AiEverythingMEAEgypt #ArtificialIntelligence #FutureTech #DigitalEconomy #Cloud #Datacentres #Cybersecurity Register to join me at the event https://lnkd.in/d-rRB5Fx
+image_0
+In a world powered by intelligence, connection is everything. I’m excited to attend AI Everything MEA Egypt - the region’s most global platform for AI leaders, startups, investors, and decision-makers.
+
+The future of AI in the region isn’t being imagined, it’s being built.
+
+hashtag#AiEverythingMEAEgypt hashtag#ArtificialIntelligence hashtag#FutureTech hashtag#DigitalEconomy hashtag#Cloud hashtag#Datacentres hashtag#Cybersecurity
+
+Register to join me at the event https://lnkd.in/d-rRB5Fx…show more
+like
+1
+1 comment
+ 153
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+build your mindset
+
+build your mindset
+like
+1
+ 151
+Impressions
+View analytics
+Amr Adel reposted this • 2mo2mo
+الحمدلله الواحد فى مراحه بدأ يفهم 😂
+No alternative text description for this image
+الحمدلله الواحد فى مراحه بدأ يفهم 😂
+ 149
+Impressions
+View analytics
+Amr Adel posted this • 1mo1mo
+كانت نشر ورقه بحثيه فى الموضع الذهب و سوق اسهم الذكاء الاصطناعى من اسبوع كنت متاكد ان فى حاجه غلط فى ارتفاع الاسعار بشكل سريع وبدون مبرر حقيقى وبصراحه كنت متظر الهبوط ده مش كلامى ده تحليل البيانات التاريخيه ال بيقول كده هو امبارح بس نزل من اعلى قمه 5600 الى 4800 يعنى 15% وانا متوقع ان يصل 4300 دولار للونصه وده لينك ال post ال من اسبوع https://lnkd.in/dgBe-U4j Gold #Investing #MarketAnalysis #GoldPrice #NLP #AI#
+
+كانت نشر ورقه بحثيه فى الموضع الذهب و سوق اسهم الذكاء الاصطناعى من اسبوع كنت متاكد ان فى حاجه غلط فى ارتفاع الاسعار بشكل سريع وبدون مبرر حقيقى وبصراحه كنت متظر الهبوط ده مش كلامى ده تحليل البيانات التاريخيه ال بيقول كده هو امبارح بس نزل من اعلى قمه 5600 الى 4800 يعنى 15% وانا متوقع ان يصل 4300 دولار للونصه وده لينك ال post ال من اسبوع
+ 
+https://lnkd.in/dgBe-U4j
+
+Gold hashtag#Investing hashtag#MarketAnalysis hashtag#GoldPrice hashtag#NLP #AI#…show more
+ 143
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+FinTech is NOT just a "money transfer app." It’s a total re-engineering of the financial logic we’ve known for decades. 🚀 Why is everyone talking about FinTech as the heavyweight champion of the digital economy? Because it’s not just "patching" the old system; it’s rebuilding it from scratch using Data & Algorithms. How do "Digital Banks" operate with zero branches and minimal staff? 🤔 It’s not magic—it’s brilliant System Design built on three pillars: 1️⃣ Seamless Onboarding (Minutes, not Days): Forget the paperwork and the long queues. AI handles the heavy lifting: OCR for instant data extraction from IDs. Face Recognition & Liveness Detection for identity verification. Real-time API integration with government KYC databases. 2️⃣ Real-Time Financial Decisioning: This is where Data Science replaces the traditional "Credit Officer." The system analyzes: Transaction behavior and spending patterns. Probability of Default (PD) via advanced Credit Scoring Models. The Result: A loan decision in seconds, not weeks. 3️⃣ 90% Lower Operational Costs: Traditional Bank = Real estate + Massive utility bills + An army of manual operators. Digital Bank = A Software Company with a banking license. This massive cost-saving translates into lower fees, higher interest for users, and lightning-fast services. Where is the human element? 👤 Humans haven't vanished; their roles have evolved. They’ve moved from "Operation" to "Control." They are the ones designing policies, auditing AI Risk Models, and ensuring Compliance. The Big Picture: FinTech is the ultimate marriage between Finance and Tech. The industry is starving for a new breed of professionals: Business Data Scientists and AI Engineers who understand "Business Logic" as much as they understand "Code." The Big Question: Do you think traditional banks can survive with their Legacy Systems, or is acquiring FinTech startups their only lifeline? 👇 #FinTech #Banking #DigitalTransformation #AI #DataScience #Innovation #FinancialTechnology #FutureOfFinance
+
+FinTech is NOT just a "money transfer app." It’s a total re-engineering of the financial logic we’ve known for decades. 🚀
+
+Why is everyone talking about FinTech as the heavyweight champion of the digital economy?
+Because it’s not just "patching" the old system; it’s rebuilding it from scratch using Data & Algorithms.
+How do "Digital Banks" operate with zero branches and minimal staff? 🤔 It’s not magic—it’s brilliant System Design built on three pillars:
+
+1️⃣ Seamless Onboarding (Minutes, not Days): Forget the paperwork and the long queues. AI handles the heavy lifting:
+OCR for instant data extraction from IDs.
+Face Recognition & Liveness Detection for identity verification.
+Real-time API integration with government KYC databases.
+
+2️⃣ Real-Time Financial Decisioning: This is where Data Science replaces the traditional "Credit Officer." The system analyzes:
+Transaction behavior and spending patterns.
+Probability of Default (PD) via advanced Credit Scoring Models.
+The Result: A loan decision in seconds, not weeks.
+
+3️⃣ 90% Lower Operational Costs: Traditional Bank = Real estate + Massive utility bills + An army of manual operators. Digital Bank = A Software Company with a banking license. This massive cost-saving translates into lower fees, higher interest for users, and lightning-fast services.
+
+Where is the human element? 👤 Humans haven't vanished; their roles have evolved. They’ve moved from "Operation" to "Control." They are the ones designing policies, auditing AI Risk Models, and ensuring Compliance.
+
+The Big Picture: FinTech is the ultimate marriage between Finance and Tech. The industry is starving for a new breed of professionals: Business Data Scientists and AI Engineers who understand "Business Logic" as much as they understand "Code."
+
+The Big Question: Do you think traditional banks can survive with their Legacy Systems, or is acquiring FinTech startups their only lifeline? 👇
+
+hashtag#FinTech hashtag#Banking hashtag#DigitalTransformation hashtag#AI hashtag#DataScience hashtag#Innovation hashtag#FinancialTechnology hashtag#FutureOfFinance…show more
+ 138
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+هل لسه بتضيع وقتك بين 10 أدوات مختلفة عشان تخلص مشروع Data واحد؟ 🤯 لو كنت شغال في الـ Data Science أو الـ Analytics، أكيد عارف المعاناة: أداة للتنظيف، كود للتحليل، منصة تانية خالص للـ Machine Learning، ومجهود جبار عشان تربطهم ببعض. هنا بييجي دور Dataiku.. المنصة اللي مش بس بتسهل الشغل، دي بتغير قواعد اللعبة تماماً! 🚀 ليه Dataiku هو "الوحش" القادم في عالم البيانات؟ ✅ توفير وقت خيالي: بيجمع لك كل مراحل المشروع (End-to-End) في مكان واحد. اللي كان بياخد أيام في كتابة الـ Boilerplate code، دلوقتي بيخلص في دقائق. ✅ رؤية وتحليل البيانات (Visual Data Prep): مش محتاج تكتب 100 سطر كود عشان تفهم الـ Trends. بضغطة زرار بتقدر تعمل EDA وتشوف البيانات بوضوح وتجهزها (Wrangling) بكل سهولة. ✅ بناء نماذج AutoML بسرعة رهيبة: سواء كنت محترف كود أو بتفضل الـ No-code، المنصة بتقدم AutoML بيخليك تبني وتجرب نماذج تعلم آلي معقدة في وقت قياسي وبدقة عالية جداً. ✅ دمج الذكاء الاصطناعي (Generative AI): المنصة مش بعيدة عن الطفرة الحالية، بالعكس، بتمكنك من دمج الـ LLMs والـ AI التوليدي جوه الـ Workflow بتاعك بمنتهى السلاسة. ✅ وداعاً لتشتت الأدوات: Dataiku يقدر يغنيك عن ترسانة كاملة من الأدوات المنفصلة، لأنه بيعمل التكامل (Integration) بين كل المراحل من أول الـ Connection بالداتا لحد الـ Deployment. الخبر الأحلى؟ 😍 لو فاكر إن الموضوع محصور للشركات الكبيرة وبس، تبقى غلطان! في نسخة Free Edition "رهيبة" تقدر تنزلها وتشتغل بيها محلياً (Local) على جهازك وتستمتع بكل الإمكانيات دي مجاناً. باختصار: Dataiku مش مجرد Tool، ده "مسرّع" لنجاحك في عالم البيانات. 📈 #Dataiku #DataScience #MachineLearning #AI #Analytics #AutoML #BigData #DataEngineering #Efficiency
+No alternative text description for this image
+هل لسه بتضيع وقتك بين 10 أدوات مختلفة عشان تخلص مشروع Data واحد؟ 🤯
+لو كنت شغال في الـ Data Science أو الـ Analytics، أكيد عارف المعاناة: أداة للتنظيف، كود للتحليل، منصة تانية خالص للـ Machine Learning، ومجهود جبار عشان تربطهم ببعض.
+هنا بييجي دور Dataiku.. المنصة اللي مش بس بتسهل الشغل، دي بتغير قواعد اللعبة تماماً! 🚀
+ليه Dataiku هو "الوحش" القادم في عالم البيانات؟
+✅ توفير وقت خيالي: بيجمع لك كل مراحل المشروع (End-to-End) في مكان واحد. اللي كان بياخد أيام في كتابة الـ Boilerplate code، دلوقتي بيخلص في دقائق.
+✅ رؤية وتحليل البيانات (Visual Data Prep): مش محتاج تكتب 100 سطر كود عشان تفهم الـ Trends. بضغطة زرار بتقدر تعمل EDA وتشوف البيانات بوضوح وتجهزها (Wrangling) بكل سهولة.
+✅ بناء نماذج AutoML بسرعة رهيبة: سواء كنت محترف كود أو بتفضل الـ No-code، المنصة بتقدم AutoML بيخليك تبني وتجرب نماذج تعلم آلي معقدة في وقت قياسي وبدقة عالية جداً.
+✅ دمج الذكاء الاصطناعي (Generative AI): المنصة مش بعيدة عن الطفرة الحالية، بالعكس، بتمكنك من دمج الـ LLMs والـ AI التوليدي جوه الـ Workflow بتاعك بمنتهى السلاسة.
+✅ وداعاً لتشتت الأدوات: Dataiku يقدر يغنيك عن ترسانة كاملة من الأدوات المنفصلة، لأنه بيعمل التكامل (Integration) بين كل المراحل من أول الـ Connection بالداتا لحد الـ Deployment.
+الخبر الأحلى؟ 😍 لو فاكر إن الموضوع محصور للشركات الكبيرة وبس، تبقى غلطان! في نسخة Free Edition "رهيبة" تقدر تنزلها وتشتغل بيها محلياً (Local) على جهازك وتستمتع بكل الإمكانيات دي مجاناً.
+باختصار: Dataiku مش مجرد Tool، ده "مسرّع" لنجاحك في عالم البيانات. 📈
+
+hashtag#Dataiku hashtag#DataScience hashtag#MachineLearning hashtag#AI hashtag#Analytics hashtag#AutoML hashtag#BigData hashtag#DataEngineering hashtag#Efficiency…show more
+lovecelebrate
+3
+ 136
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+🔹 NLP Text Analysis — How to Choose the Right Method? Before choosing a model, choose the right NLP task. Here are the most common ones 👇 1️⃣ Text Classification ➡ Assign text to known categories Examples: Spam detection, Sentiment analysis, Ticket routing ✔ Use it when you have clear labels and need a direct decision 📊 Data: Labeled & reasonably balanced 2️⃣ Text Prediction (Regression) ➡ Predict a numeric value from text Examples: Rating prediction, Churn risk ✔ Use it when text impacts a business KPI 📊 Data: Text + numeric target (usually larger dataset) 3️⃣ Text Clustering ➡ Group similar texts (no labels) Examples: Discover new complaint types, Customer segmentation ✔ Use it for exploration & pattern discovery 📊 Data: Raw text + strong embeddings 4️⃣ Topic Modeling ➡ Extract main themes from large text sets Examples: Market trends, Document analysis ✔ Use it for insights, not decisions 🎯 How to decide? Ask yourself: Do I have labels? Do I need a decision or insights? Am I predicting or exploring? 💡 Final thought NLP success = Right goal + Right data + Right method Not just the latest model. #NLP #TextAnalytics #MachineLearning #DataScience #BusinessAnalytics #AI #BusinessEngineering
+
+🔹 NLP Text Analysis — How to Choose the Right Method?
+Before choosing a model, choose the right NLP task.
+Here are the most common ones 👇
+1️⃣ Text Classification
+ ➡ Assign text to known categories
+ Examples: Spam detection, Sentiment analysis, Ticket routing
+ ✔ Use it when you have clear labels and need a direct decision
+ 📊 Data: Labeled & reasonably balanced
+2️⃣ Text Prediction (Regression)
+ ➡ Predict a numeric value from text
+ Examples: Rating prediction, Churn risk
+ ✔ Use it when text impacts a business KPI
+ 📊 Data: Text + numeric target (usually larger dataset)
+3️⃣ Text Clustering
+ ➡ Group similar texts (no labels)
+ Examples: Discover new complaint types, Customer segmentation
+ ✔ Use it for exploration & pattern discovery
+ 📊 Data: Raw text + strong embeddings
+4️⃣ Topic Modeling
+ ➡ Extract main themes from large text sets
+ Examples: Market trends, Document analysis
+ ✔ Use it for insights, not decisions
+🎯 How to decide?
+ Ask yourself:
+Do I have labels?
+Do I need a decision or insights?
+Am I predicting or exploring?
+💡 Final thought
+ NLP success = Right goal + Right data + Right method
+ Not just the latest model.
+hashtag#NLP hashtag#TextAnalytics hashtag#MachineLearning
+ hashtag#DataScience hashtag#BusinessAnalytics hashtag#AI hashtag#BusinessEngineering…show more
+like
+1
+ 134
+Impressions
+View analytics
+Amr Adel posted this • 2mo2mo
+ليه تدفع لـ OpenAI.. لما ممكن تمتلك الـ Model بتاعك "ببلاش"؟ 💸🤖 في هوس الـ AI الحالي، أغلب الشركات بتبني حلولها على Closed APIs مكلفة وصعبة التحكم. لكن الحقيقة إن "الكنز الحقيقي" موجود في مكان تاني خالص.. Hugging Face. أنا مش بتكلم عن مجرد موقع، ده الـ GitHub of AI، وده ليه هو الـ Game Changer الحقيقي ليك ولأي بيزنس: ✅ Cost Efficiency: بدل ما تدفع ميزانية ضخمة لكل Token، المنصة بتوفرلك آلاف الـ Open-Source Models (زي Llama و Mistral) اللي تقدر تشغلها عندك وتوفر مبالغ خرافية. ✅ Free Fine-Tuning: تقدر تدرب الموديل على بيانات شركتك الخاصة باستخدام أدواتهم (زي AutoTrain) وأحياناً باستخدام الـ Free Tier في الـ Spaces، وده بيخليك تطلع نتايج مخصصة لعملائك بالظبط. ✅ Data Privacy & Ownership: لما تستخدم Hugging Face، الموديل بقى ملكك. مفيش قلق من تسريب داتا لشركات خارجية، ولا خوف من إن الـ API يقف فجأة. ✅ Beyond LLMs: المنصة مش بس للدردشة، فيها حلول للـ Audio, Image, and Robotics.. حرفياً كل اللي محتاجه عشان تبقى AI Engineer حقيقي. الخلاصة (The Strategic Insight): الذكاء الاصطناعي مش إنك تشتري أغلى أداة، الذكاء إنك تبني نظام Sustainable & Scalable. الـ Open Source مش بس بديل، ده هو "المستقبل" للشركات اللي عايزة تستمر. 📢 سؤال للنقاش: لو خيروك بين API جاهز وسريع بس غالي، وبين Open-Source Model محتاج منك شوية مجهود في الإعداد بس ملكك للأبد.. هتختار إيه؟ وليه؟ 👇 #AI #HuggingFace #OpenSource #MachineLearning #AIEngineer #DataScience #BusinessEfficiency #GenerativeAI
+
+ليه تدفع لـ OpenAI.. لما ممكن تمتلك الـ Model بتاعك "ببلاش"؟ 💸🤖
+
+في هوس الـ AI الحالي، أغلب الشركات بتبني حلولها على Closed APIs مكلفة وصعبة التحكم. لكن الحقيقة إن "الكنز الحقيقي" موجود في مكان تاني خالص.. Hugging Face.
+أنا مش بتكلم عن مجرد موقع، ده الـ GitHub of AI، وده ليه هو الـ Game Changer الحقيقي ليك ولأي بيزنس:
+✅ Cost Efficiency: بدل ما تدفع ميزانية ضخمة لكل Token، المنصة بتوفرلك آلاف الـ Open-Source Models (زي Llama و Mistral) اللي تقدر تشغلها عندك وتوفر مبالغ خرافية. ✅ Free Fine-Tuning: تقدر تدرب الموديل على بيانات شركتك الخاصة باستخدام أدواتهم (زي AutoTrain) وأحياناً باستخدام الـ Free Tier في الـ Spaces، وده بيخليك تطلع نتايج مخصصة لعملائك بالظبط. ✅ Data Privacy & Ownership: لما تستخدم Hugging Face، الموديل بقى ملكك. مفيش قلق من تسريب داتا لشركات خارجية، ولا خوف من إن الـ API يقف فجأة. ✅ Beyond LLMs: المنصة مش بس للدردشة، فيها حلول للـ Audio, Image, and Robotics.. حرفياً كل اللي محتاجه عشان تبقى AI Engineer حقيقي.
+الخلاصة (The Strategic Insight):
+الذكاء الاصطناعي مش إنك تشتري أغلى أداة، الذكاء إنك تبني نظام Sustainable & Scalable. الـ Open Source مش بس بديل، ده هو "المستقبل" للشركات اللي عايزة تستمر.
+
+📢 سؤال للنقاش: لو خيروك بين API جاهز وسريع بس غالي، وبين Open-Source Model محتاج منك شوية مجهود في الإعداد بس ملكك للأبد.. هتختار إيه؟ وليه؟ 👇
+
+hashtag#AI hashtag#HuggingFace hashtag#OpenSource hashtag#MachineLearning hashtag#AIEngineer hashtag#DataScience hashtag#BusinessEfficiency hashtag#GenerativeAI…show more
+ 134
+Impressions
+View analytics
