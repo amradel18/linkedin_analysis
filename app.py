@@ -174,6 +174,31 @@ def save_uploaded_file(uploaded_file, suffix):
 
 
 @st.cache_data(show_spinner=False)
+def load_learning_content():
+    guide_path = Path(__file__).resolve().parent / "LinkedIn_Content_Creation.md"
+    if not guide_path.exists():
+        return "Learning guide file not found."
+    return guide_path.read_text(encoding="utf-8")
+
+
+def build_scientific_prompt(guide_text, profile_headline, profile_about, posting_goal):
+    return (
+        "You are an evidence-based LinkedIn strategist.\n\n"
+        f"Profile Headline: {profile_headline}\n"
+        f"Profile About: {profile_about}\n"
+        f"Publishing Goal: {posting_goal}\n\n"
+        "Use the framework below as a strict methodology to produce a high-performance content plan:\n\n"
+        f"{guide_text}\n\n"
+        "Now deliver:\n"
+        "1) A 14-day content plan.\n"
+        "2) 10 post ideas mapped to funnel stages.\n"
+        "3) 3 hook variants per idea.\n"
+        "4) Keyword strategy (primary, secondary, LSI).\n"
+        "5) A/B tests and success metrics.\n"
+    )
+
+
+@st.cache_data(show_spinner=False)
 def load_data(posts_path: str, excel_path: str):
     posts_df = extract_posts(posts_path)
     merged_df, demographics_df = read_and_clean_excel(excel_path)
@@ -317,6 +342,7 @@ def build_markdown_report(
     hook_feature_table,
     demographics_full,
     weekly_kpis_table,
+    scientific_prompt,
     period_text,
     profile_headline,
     profile_about,
@@ -385,6 +411,12 @@ def build_markdown_report(
     lines.append("## 7) Weekly KPIs (from merged_df)")
     lines.append("")
     lines.append(df_to_md(weekly_kpis_table))
+    lines.append("")
+    lines.append("## 8) Scientific LLM Prompt for LinkedIn Content Creation")
+    lines.append("")
+    lines.append("```text")
+    lines.append(scientific_prompt)
+    lines.append("```")
     lines.append("")
     return "\n".join(lines)
 
@@ -476,6 +508,13 @@ def render_help_page():
         - Text file exported from LinkedIn posts analytics
         """
     )
+
+
+def render_learn_page():
+    st.title("Learn")
+    st.caption("LinkedIn scientific content creation framework")
+    guide_text = load_learning_content()
+    st.markdown(guide_text)
 
 
 def render_analytics_page():
@@ -747,6 +786,14 @@ def render_analytics_page():
     st.markdown("**Weekly KPIs (merged_df):**")
     st.dataframe(weekly_kpis_table, use_container_width=True)
 
+    guide_text = load_learning_content()
+    scientific_prompt = build_scientific_prompt(
+        guide_text=guide_text,
+        profile_headline=profile_headline,
+        profile_about=profile_about,
+        posting_goal=posting_goal
+    )
+
     period_text = f"{start_date.date()} → {end_date.date()}"
     markdown_report = build_markdown_report(
         kpis=kpis,
@@ -756,6 +803,7 @@ def render_analytics_page():
         hook_feature_table=hook_feature_table,
         demographics_full=demographics_full,
         weekly_kpis_table=weekly_kpis_table,
+        scientific_prompt=scientific_prompt,
         period_text=period_text,
         profile_headline=profile_headline,
         profile_about=profile_about,
@@ -772,11 +820,13 @@ def render_analytics_page():
 
 
 with st.sidebar:
-    page = st.radio("Navigation", ["About", "Analytics", "Help"], index=0)
+    page = st.radio("Navigation", ["About", "Analytics", "Learn", "Help"], index=0)
 
 if page == "About":
     render_about_page()
 elif page == "Analytics":
     render_analytics_page()
+elif page == "Learn":
+    render_learn_page()
 else:
     render_help_page()
