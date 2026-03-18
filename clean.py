@@ -50,6 +50,11 @@ def extract_posts(file_path: str) -> pd.DataFrame:
     posts = re.findall(r"(posted this.*?View analytics)", text, re.DOTALL)
     data = []
 
+    def _to_int(match_obj):
+        if not match_obj:
+            return 0
+        return int(match_obj.group(1).replace(",", "").strip())
+
     for idx, post in enumerate(posts, start=1):
         try:
             time_match = re.search(r"posted this • (.*?)\n", post)
@@ -71,24 +76,27 @@ def extract_posts(file_path: str) -> pd.DataFrame:
                             hook = lines[i+3].strip()
                     break
 
-            likes_match = re.search(r"(?:like|celebrate|love|lovelike|likecelebrate)\s+(\d+)", post)
-            likes = int(likes_match.group(1)) if likes_match else 0
+            likes_match = re.search(
+                r"(?:like|celebrate|love|support|insightful|curious|entertaining|interesting|lovelike|likecelebrate)\s+([\d,]+)",
+                post,
+                re.IGNORECASE
+            )
+            likes = _to_int(likes_match)
 
-            comments_match = re.search(r"(\d+)\s+comment", post)
-            comments = int(comments_match.group(1)) if comments_match else 0
+            comments_match = re.search(r"([\d,]+)\s+comments?\b", post, re.IGNORECASE)
+            comments = _to_int(comments_match)
 
-            impressions_match = re.search(r"([\d,]+)\s+Impressions", post)
-            impressions = int(impressions_match.group(1).replace(",", "")) if impressions_match else 0
+            impressions_match = re.search(r"([\d,]+)\s+Impressions\b", post, re.IGNORECASE)
+            impressions = _to_int(impressions_match)
 
-            # ✅ استخراج عدد الـ reposts
-            reposts_match = re.search(r"(\d+)\s+repost", post, re.IGNORECASE)
-            reposts = int(reposts_match.group(1)) if reposts_match else 0
+            reposts_match = re.search(r"([\d,]+)\s+reposts?\b", post, re.IGNORECASE)
+            reposts = _to_int(reposts_match)
 
             # Detect types
             is_text = 1 if content else 0
             is_pdf = 1 if re.search(r"\d+\s+pages", post, re.IGNORECASE) else 0
             is_link = 1 if re.search(r"http[s]?://", post) else 0
-            is_image = 1 if not is_pdf else 0  # assume image if not PDF
+            is_image = 1 if re.search(r"No alternative text description for this image", post, re.IGNORECASE) else 0
 
             types_list = []
             if is_text: types_list.append("Text")
@@ -123,7 +131,7 @@ def extract_posts(file_path: str) -> pd.DataFrame:
             continue
 
     df = pd.DataFrame(data)
-    df = df.drop_duplicates(subset=["content"]).reset_index(drop=True)
+    df = df.drop_duplicates().reset_index(drop=True)
     posts = df.sort_values("actual_date", ascending=True,ignore_index=True)
     return posts
 
