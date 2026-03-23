@@ -11,7 +11,6 @@
 - [x] BI / Dashboarding
 - [x] Optimization / Operations Research
 - [x] Real-time Systems
-- [x] Voice AI
 - [x] CRM Analytics
 
 ## Janssen AI Agent

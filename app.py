@@ -493,21 +493,27 @@ def render_about_page():
 
 def render_help_page():
     st.title("Help")
+
     st.markdown(
         """
         ### How to Use the Analytics Page
-        1. Open **Analytics** from the sidebar.
-        2. Upload `Content.xlsx` and `posts_linkedin.txt`.
-        3. Optionally fill profile context fields.
-        4. Select the analysis date range.
-        5. Review KPIs, charts, insights, hooks, demographics, and weekly KPIs.
-        6. Download the generated Markdown report.
-
-        ### Input Requirements
-        - Excel file with sheets: `DISCOVERY`, `ENGAGEMENT`, `FOLLOWERS`, `DEMOGRAPHICS`
-        - Text file exported from LinkedIn posts analytics
+        1. Copy your **best LinkedIn posts** from the past 365 days and paste them into a text file named `posts_linkedin.txt`.
+        2. Download your LinkedIn analytics report covering the **last 365 days** as an Excel file (it usually contains sheets: `DISCOVERY`, `ENGAGEMENT`, `FOLLOWERS`, `DEMOGRAPHICS`).
+        3. Upload both files (`Content.xlsx` and `posts_linkedin.txt`) to the app.
+        4. Fill in your profile context fields: **Headline**, **About**, and your **Publishing Goal**.
+        5. Select the analysis date range.
+        6. Review KPIs, charts, insights, hooks, demographics, and weekly KPIs.
+        7. Download the generated Markdown report.
+        8. Copy the report into any LLM (e.g., ChatGPT) and ask for:
+           - A deeper page analysis
+           - New content ideas
+           - Practical steps for improvement
         """
     )
+
+    st.video("hlelp_V.mp4")
+
+
 
 
 def render_learn_page():
