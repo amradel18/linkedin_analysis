@@ -3,3 +3,12 @@ __pycache__/
 *.pyo
 *.pyd
 .DS_Store
+
+# git init
+# git remote add origin https://github.com/amradel18/linkedin_analysis.git
+
+# git checkout main
+# git pull origin main
+# git add .
+# git commit -m "txt...................."
+# git push origin main

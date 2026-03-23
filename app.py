@@ -510,8 +510,12 @@ def render_help_page():
            - Practical steps for improvement
         """
     )
+    st.title("Link to the tutorial video on Google Drive")
+    st.markdown(
+                '<a href="https://drive.google.com/file/d/1IS3D_q4NsTp6-3af80ZMZMl_KnBuYFn8/view?usp=drive_link" style="color:blue;">Open Help Video</a>',
+                unsafe_allow_html=True
+            )
 
-    st.video("hlelp_V.mp4")
 
 
 
